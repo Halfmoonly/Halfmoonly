@@ -1,4 +1,6 @@
 ### Hi there 👋
+Occam's Razor, also known as Ockham's Razor：
+It means Entities should not be multiplied unnecessarily
 
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
