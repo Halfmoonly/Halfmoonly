@@ -1,6 +1,6 @@
 ### My principle 👋
 Occam's Razor, aka Ockham's Razor, it means Entities should not be multiplied unnecessarily
-### Purpose of this account 🏚️
+### Purpose of this account 🔑
 The gitHub warehouse is the perfect place to sync my stuff, it will stay with me throughout my career, and I consider them invaluable
 
 <!--
