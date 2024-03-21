@@ -3,6 +3,11 @@ Occam's Razor, aka Ockham's Razor, it means Entities should not be multiplied un
 ### Purpose of this account 🔑
 The gitHub warehouse is the perfect place to sync my stuff, it will follow me throughout my career, and I consider them invaluable
 
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lyflexi&theme=xcode" /> </div>
+
+
+
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
