@@ -1,4 +1,4 @@
-😄 Purpose：The gitHub warehouse is the perfect place to sync my stuff, it will follow me throughout my career, and I consider them invaluable
+😄 Purpose：gitHub is the perfect place to sync my stuff, it will follow me throughout my career
 
 ⚡ Principle ：Occam's Razor, aka Ockham's Razor, it means Entities should not be multiplied unnecessarily
 
