@@ -2,7 +2,7 @@
 - ⚡ Principle ：Occam's Razor, aka Ockham's Razor, it means Entities should not be multiplied unnecessarily
 - 📫 How to reach me：liuyanoutsee@outlook.com
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
