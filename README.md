@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice
-- spring三级缓存源码修改版证明猜想（修改spring-beans包源码版本6.1.2）：https://github.com/lyflexi/spring-three-level-buffer-practice
+- spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
 - redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
