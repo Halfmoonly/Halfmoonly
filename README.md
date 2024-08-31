@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
-- jdk源码调试与业务最佳实践（含最新版Log4j2模板配置）：https://github.com/lyflexi/jdk-practice
+- jdk源码调试与业务最佳实践（含最新版Log4j2模板配置，含JUC）：https://github.com/lyflexi/jdk-practice
 - 23种设计模式实践：https://github.com/lyflexi/designPartens-practice
 - mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
