@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
-- git最佳实践 ：https://github.com/lyflexi/git-practice 
+- git最佳实践 ：https://github.com/lyflexi/git-practice
+- jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
 
 ✨我写的项目
 - 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
