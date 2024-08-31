@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - git最佳实践 ：https://github.com/lyflexi/git-practice 
 
 ✨我写的项目
-- MiniSpringFramework：https://github.com/lyflexi/MiniSpringFramework
-- DistributedMall-heima：https://github.com/lyflexi/DistributedMall-heima
+- 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
+- 分布式商城项目：https://github.com/lyflexi/DistributedMall-heima
 
 ✨前端速通教程：
-- NormalizedVue3：https://github.com/lyflexi/NormalizedVue3
+- vue3速通代码：https://github.com/lyflexi/NormalizedVue3
 
 ✨fork项目：
-- https://github.com/lyflexi/guava
+- guava：https://github.com/lyflexi/guava
