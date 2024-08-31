@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践（含最新版Log4j2模板配置，含JUC）：https://github.com/lyflexi/jdk-practice
   - module:[debug_basicjdk](https://github.com/lyflexi/jdk-practice/tree/main/debug_basicjdk) jdk基础工具包调试
-  - module:[debug_thread](debug_thread) jdk多线程调试，涵盖JUC、以及alibabaTTL
-  - module:[designPartens](designPartens) jdk设计模式调试
-  - module:[eliminateSynchronized](eliminateSynchronized) jvm性能评估插件
-  - module:[spi-ServiceProviderInterface](spi-ServiceProviderInterface) jdk-spi机制实现
+  - module:[debug_thread](https://github.com/lyflexi/jdk-practice/tree/main/debug_thread) jdk多线程调试，涵盖JUC、以及alibabaTTL
+  - module:[designPartens](https://github.com/lyflexi/jdk-practice/tree/main/designPartens) jdk设计模式调试
+  - module:[eliminateSynchronized](https://github.com/lyflexi/jdk-practice/tree/main/eliminateSynchronized) jvm性能评估插件
+  - module:[spi-ServiceProviderInterface](https://github.com/lyflexi/jdk-practice/tree/main/spi-ServiceProviderInterface) jdk-spi机制实现
 - 23种设计模式实践：https://github.com/lyflexi/designPartens-practice
 - mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
