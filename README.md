@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
 - nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
 - rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
+- rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
 
 ✨我写的项目
 - 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
