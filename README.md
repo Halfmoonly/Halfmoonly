@@ -45,13 +45,26 @@ Here are some ideas to get you started:
 - spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
+  - module:[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot核心原理调试
+  - module:[debug_springboot_robotstarter](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot_robotstarter) 三重境界自定义stater
 - redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
+  - module:[mysqlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/mysqlock) 对比mysql悲观乐观锁
+  - module:[jvmlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/jvmlock) 对比jvm加锁
+  - module:[redisHandsonDistriLock](https://github.com/lyflexi/distributed-lock-practice/tree/main/redisHandsonDistriLock) 手写redis分布式锁
+  - module:[redissonClient](https://github.com/lyflexi/distributed-lock-practice/tree/main/redissonClient) redisson解决方案
+  - module:[zkHandsonDistriLock](https://github.com/lyflexi/distributed-lock-practice/tree/main/zkHandsonDistriLock) 手写zk分布式锁
+  - module:[zkCurator](https://github.com/lyflexi/distributed-lock-practice/tree/main/zkCurator) zkCurator解决方案
 - jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
+  - module:[basic_jetcache](https://github.com/lyflexi/jetcache-practice/tree/main/basic_jetcache) jetcache核心原理调试
+  - module:[custom_jetcache_framework](https://github.com/lyflexi/jetcache-practice/tree/main/custom_jetcache_framework) 自定义jetcache业务框架
 - nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
 - rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
+  - module:[amqp-client](https://github.com/lyflexi/rabbitmq-practice/tree/main/amqp-client) 原生amqp-client客户端调试
+  - module:[custom_rabbit_framework](https://github.com/lyflexi/rabbitmq-practice/tree/main/custom_rabbit_framework) 自定义rabbitmq业务框架
 - rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
 - springcloudalibaba分布式组件源码调试与业务最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
 - xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
+  - module:[custom_xxljob_executor_framework](https://github.com/lyflexi/xxljob-practice/tree/main/custom_xxljob_executor_framework) 自定义xxljob业务框架
 - guava源码调试与业务最佳实践：TODO
 
 ✨我写的项目
