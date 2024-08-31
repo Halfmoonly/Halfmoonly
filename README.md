@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
 - redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
 - jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
+- nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
 
 ✨我写的项目
 - 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
