@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨各大官方源码调试案例：
+✨各大官方源码调试案例与业务最佳实践：
 - git最佳实践 ：https://github.com/lyflexi/git-practice 
 
 ✨我写的项目
