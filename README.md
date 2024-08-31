@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 - nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
 - rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
 - rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
-- springcloudalibaba分布式组件源码调试与最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
-- xxljob源码调试与最佳实践：https://github.com/lyflexi/xxljob-practice
+- springcloudalibaba分布式组件源码调试与业务最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
+- xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
+- guava源码调试与业务最佳实践：TODO
 
 ✨我写的项目
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
