@@ -32,20 +32,20 @@ Here are some ideas to get you started:
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
-- mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - jdk源码调试与业务最佳实践（含最新版Log4j2模板配置）：https://github.com/lyflexi/jdk-practice
-- redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
-- jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
-- nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
-- rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
-- rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
+- mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice
 - spring三级缓存源码修改版证明猜想（修改spring-beans包源码版本6.1.2）：https://github.com/lyflexi/spring-three-level-buffer-practice
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
+- redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
+- jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
+- nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
+- rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
+- rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
 - springcloudalibaba分布式组件源码调试与最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
-
+- xxljob源码调试与最佳实践：https://github.com/lyflexi/xxljob-practice
 ✨我写的项目
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
