@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
 - rabbitmq源码调试与业务最佳实践：https://github.com/lyflexi/rabbitmq-practice
 - rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
-- servlet源码调试与最佳实践(适配新版jakarta)：https://github.com/lyflexi/servlet-practice
+- servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 
 ✨我写的项目
 - 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
