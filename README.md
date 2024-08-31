@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 
 ✨我写的项目
-- 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
-- 分布式商城项目：https://github.com/lyflexi/DistributedMall-heima
+- 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
+- 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
