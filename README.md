@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
-- 分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
+- redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
 - jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
 
 ✨我写的项目
