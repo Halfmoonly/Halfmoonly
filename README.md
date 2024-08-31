@@ -1,6 +1,6 @@
-- 😄 Purpose：here is a perfect place to sync my stuff，and it will follow me throughout my career
-- ⚡ Principle ：Occam's Razor, aka Ockham's Razor, it means entities should not be multiplied unnecessarily
-- 📫 How to reach me：liuyanoutsee@outlook.com
+🔭 I’m currently working on：here is a perfect place to sync my stuff，and it will follow me throughout my career
+⚡ Fun fact ：Occam's Razor, aka Ockham's Razor, it means entities should not be multiplied unnecessarily
+📫 How to reach me：liuyanoutsee@outlook.com
 ---
 [![https://github.com/lyflexi](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&theme=redical)](https://github.com/lyflexi)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨各大官方源码调试案例：design-pattern|thread|nio|ttl|spring6|servlet3.0|tomcat10|springmvc6|springboot3|xxxtemplate|rocketmq4.9.2|redisson3.23|jetcache2.7|springcloud2022|xxl-job2.7.2|rabbitmq...
+✨各大官方源码调试案例：
 - git最佳实践 ：https://github.com/lyflexi/git-practice 
 
 ✨我写的项目
