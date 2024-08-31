@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice
 - spring三级缓存源码修改版证明猜想（修改spring-beans包源码版本6.1.2）：https://github.com/lyflexi/spring-three-level-buffer-practice
+- springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
 - springcloudalibaba分布式组件源码调试与最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
 
