@@ -20,3 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨各大官方源码调试案例：design-pattern|thread|nio|ttl|spring6|servlet3.0|tomcat10|springmvc6|springboot3|xxxtemplate|rocketmq4.9.2|redisson3.23|jetcache2.7|springcloud2022|xxl-job2.7.2|rabbitmq...
+- git最佳实践 ：https://github.com/lyflexi/git-practice 
+
+✨我写的项目
+- MiniSpringFramework：https://github.com/lyflexi/MiniSpringFramework
+- DistributedMall-heima：https://github.com/lyflexi/DistributedMall-heima
+
+✨前端速通教程：
+- NormalizedVue3：https://github.com/lyflexi/NormalizedVue3
+
+✨fork项目：
+- https://github.com/lyflexi/guava
