@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
-- springcloudalibaba源码调试与最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
+- springcloudalibaba分布式组件源码调试与最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
 
 ✨我写的项目
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
