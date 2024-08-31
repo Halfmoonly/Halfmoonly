@@ -1,5 +1,7 @@
 🔭 I’m currently working on：here is a perfect place to sync my stuff，and it will follow me throughout my career
+
 ⚡ Fun fact ：Occam's Razor, aka Ockham's Razor, it means entities should not be multiplied unnecessarily
+
 📫 How to reach me：liuyanoutsee@outlook.com
 ---
 [![https://github.com/lyflexi](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&theme=redical)](https://github.com/lyflexi)
