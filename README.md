@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
 - 分布式锁源码调试与业务最佳实践：https://github.com/lyflexi/distributed-lock-practice
+- 缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
 
 ✨我写的项目
 - 手写spring项目：https://github.com/lyflexi/MiniSpringFramework
