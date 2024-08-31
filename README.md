@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ✨各大官方源码调试案例与业务最佳实践：
 - 老版合集：design-pattern|thread|nio|ttl|spring6|servlet3.0|tomcat10|springmvc6|springboot3|xxxtemplate|rocketmq4.9.2|redisson3.23|jetcache2.7|springcloud2022|xxl-job2.7.2|rabbitmq...：https://github.com/lyflexi/debuginfo_jdkToFramework
 
-✨最新版各大官方源码调试案例与业务最佳实践：（拆分版）
+✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice 
 
