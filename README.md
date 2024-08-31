@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 ✨各大官方框架源码调试案例与业务最佳实践：
 - 老版合集：design-pattern|thread|nio|ttl|spring6|servlet3.0|tomcat10|springmvc6|springboot3|xxxtemplate|rocketmq4.9.2|redisson3.23|jetcache2.7|springcloud2022|xxl-job2.7.2|rabbitmq...：https://github.com/lyflexi/debuginfo_jdkToFramework
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
-- 推荐使用springboot3.0+，大幅缩减应用启动时间，Log4j2增强，尽可能选择 JakartaEE10 兼容的依赖
+- 推荐使用springboot3.0+，大幅缩减应用启动时间，并且尽可能选择 JakartaEE10 兼容的依赖
 ![image](https://github.com/user-attachments/assets/2184517f-d6ee-4885-8898-33ede83fa17d)
 
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
-- jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
+- jdk源码调试与业务最佳实践（含最新版Log4j2模板配置）：https://github.com/lyflexi/jdk-practice
 - redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
 - jetcache缓存组件源码调试与业务最佳实践：https://github.com/lyflexi/jetcache-practice
 - nio/netty源码调试与业务最佳实践：https://github.com/lyflexi/netty-practice
