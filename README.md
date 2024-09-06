@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 - springcloudalibaba分布式组件源码调试与业务最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
 - xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
   - module:[custom_xxljob_executor_framework](https://github.com/lyflexi/xxljob-practice/tree/main/custom_xxljob_executor_framework) 自定义xxljob业务框架
+- easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
 - guava源码调试与业务最佳实践：TODO
 
 ✨我写的项目
