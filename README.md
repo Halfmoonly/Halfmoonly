@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨各大官方框架源码调试案例与业务最佳实践：
-- 老版合集：design-pattern|thread|nio|ttl|spring6|servlet3.0|tomcat10|springmvc6|springboot3|xxxtemplate|rocketmq4.9.2|redisson3.23|jetcache2.7|springcloud2022|xxl-job2.7.2|rabbitmq...：https://github.com/lyflexi/debuginfo_jdkToFramework
+- 老版合集：https://github.com/lyflexi/debuginfo_jdkToFramework
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
 - 推荐使用springboot3.0+，大幅缩减应用启动时间，并且尽可能选择 java17和JakartaEE10 兼容的依赖
 ![image](https://github.com/user-attachments/assets/2184517f-d6ee-4885-8898-33ede83fa17d)
