@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 - xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
   - module:[custom_xxljob_executor_framework](https://github.com/lyflexi/xxljob-practice/tree/main/custom_xxljob_executor_framework) 自定义xxljob业务框架
 - easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
-- 文本正则匹配与批量替换工具，支持txt/markdown：https://github.com/lyflexi/txt-regex-replace
 - guava源码调试与业务最佳实践：TODO
 
-✨我写的项目
+✨我写的其他项目
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
+- 文本正则匹配与批量替换工具，支持txt/markdown：https://github.com/lyflexi/txt-regex-replace
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
