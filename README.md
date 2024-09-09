@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 - easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
 - guava源码调试与业务最佳实践：TODO
 
-✨我写的其他项目
+✨我写的其他项目/轮子
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
