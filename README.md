@@ -1,6 +1,6 @@
 🔭 I’m currently working on：Here is a perfect place to sync my stuff，and it will follow me throughout my career
 
-⚡ Fun fact ：Good architecture is stable, decoupled, and scalable！
+⚡ Fun fact ：Excellent architecture is stable, decoupled, and scalable！
 
 📫 How to reach me：liuyanoutsee@outlook.com
 
