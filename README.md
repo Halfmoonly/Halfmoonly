@@ -71,7 +71,8 @@ Here are some ideas to get you started:
 ✨我写的其他项目
 - 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
-- 文本正则匹配与批量替换工具，支持txt/markdown：https://github.com/lyflexi/txt-regex-replace
+- txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
+- markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
