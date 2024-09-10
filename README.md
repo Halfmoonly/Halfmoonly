@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   - module:[eliminateSynchronized](https://github.com/lyflexi/jdk-practice/tree/main/eliminateSynchronized) jvm性能评估插件
   - module:[spi-ServiceProviderInterface](https://github.com/lyflexi/jdk-practice/tree/main/spi-ServiceProviderInterface) jdk-spi机制实现
 - 23种设计模式实践：https://github.com/lyflexi/designPartens-practice
-- mybatis源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-practice
+- mybatis-plus源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-plus-practice.git
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice
 - spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
