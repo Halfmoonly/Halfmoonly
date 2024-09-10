@@ -63,8 +63,8 @@ Here are some ideas to get you started:
   - module:[custom_rabbit_framework](https://github.com/lyflexi/rabbitmq-practice/tree/main/custom_rabbit_framework) 自定义rabbitmq业务框架
 - rocketmq源码调试与业务最佳实践：https://github.com/lyflexi/rocketmq-practice
 - springcloudalibaba分布式组件源码调试与业务最佳实践：https://github.com/lyflexi/spring-cloud-alibaba-practice
-  - openfeign源码调试/线上循环依赖事故排查：[debug_openfeign](https://github.com/lyflexi/spring-cloud-alibaba-practice/tree/main/debug_openfeign)
-  - openfeign最佳业务实践：[custom-openfeign-biz-framework](https://github.com/lyflexi/spring-cloud-alibaba-practice/tree/main/custom-openfeign-biz-framework)
+  - module:[debug_openfeign](https://github.com/lyflexi/spring-cloud-alibaba-practice/tree/main/debug_openfeign) openfeign源码调试/线上循环依赖事故排查
+  - module:[custom-openfeign-biz-framework](https://github.com/lyflexi/spring-cloud-alibaba-practice/tree/main/custom-openfeign-biz-framework) openfeign最佳业务实践
 - xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
   - module:[custom_xxljob_executor_framework](https://github.com/lyflexi/xxljob-practice/tree/main/custom_xxljob_executor_framework) 自定义xxljob业务框架
 - easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
