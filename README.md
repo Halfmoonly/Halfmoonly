@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
-  - @See：[debug_basicjdk](https://github.com/lyflexi/jdk-practice/tree/main/debug_basicjdk) jdk基础工具包调试，同时升级至最新版的Log4j2日志框架，时间线：Log4J->LogBack->Log4j2(springboot3主推)
+  - @See：[debug_basicjdk](https://github.com/lyflexi/jdk-practice/tree/main/debug_basicjdk) 基础包调试，同时升级至最新版的Log4j2日志框架，时间线：Log4J->LogBack->Log4j2(springboot3主推)
   - @See：[debug_thread](https://github.com/lyflexi/jdk-practice/tree/main/debug_thread) jdk多线程调试，涵盖JUC、以及alibabaTTL
   - @See：[designPartens](https://github.com/lyflexi/jdk-practice/tree/main/designPartens) jdk设计模式调试
   - @See：[eliminateSynchronized](https://github.com/lyflexi/jdk-practice/tree/main/eliminateSynchronized) jvm性能评估插件
