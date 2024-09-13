@@ -1,8 +1,4 @@
-代码虽美，请不要忘记锻炼身体
 
-代码虽美，请不要忘记锻炼身体
-
-代码虽美，请不要忘记锻炼身体
 
 🔭 I’m currently working on：Here is a perfect place to sync my stuff，and it will follow me throughout my career
 
