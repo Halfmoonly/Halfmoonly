@@ -72,6 +72,8 @@ Here are some ideas to get you started:
 - xxljob源码调试与业务最佳实践：https://github.com/lyflexi/xxljob-practice
   - @See：[custom_xxljob_executor_framework](https://github.com/lyflexi/xxljob-practice/tree/main/custom_xxljob_executor_framework) 自定义xxljob业务框架
 - easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
+  - @See：[custom-framework-reflect](https://github.com/lyflexi/easyExcel-practice/tree/main/custom-framework-reflect) 基于枚举和反射实现的可配置化解析器
+  - @See：[custom-framework-spring](https://github.com/lyflexi/easyExcel-practice/tree/main/custom-framework-spring) 基于枚举和spring容器实现的可配置化解析器
 - guava源码调试与业务最佳实践：TODO
 
 ✨我写的其他项目/轮子
