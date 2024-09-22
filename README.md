@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
 - markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
+- 一种低成本的数据脱敏组件实现：https://github.com/lyflexi/data-desensitization
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
