@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 - easyExcel业务最佳实践：https://github.com/lyflexi/easyExcel-practice
   - @See：[custom-framework-reflect](https://github.com/lyflexi/easyExcel-practice/tree/main/custom-framework-reflect) 基于枚举和反射实现的可配置化解析器
   - @See：[custom-framework-spring](https://github.com/lyflexi/easyExcel-practice/tree/main/custom-framework-spring) 基于枚举和spring容器实现的可配置化解析器
+- redisbloom布隆过滤器实践：https://github.com/lyflexi/redis-bloom-practice
 - guava源码调试与业务最佳实践：TODO
 
 ✨我写的其他项目/轮子
