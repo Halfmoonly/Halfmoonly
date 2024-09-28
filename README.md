@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
-  - @See：[debug_basicjdk](https://github.com/lyflexi/jdk-practice/tree/main/debug_basicjdk) 基础包调试，collection、reflect、GenericType、exception
+  - @See：[debug_basicjdk](https://github.com/lyflexi/jdk-practice/tree/main/debug_basicjdk) 基础包调试，collection、reflect、GenericType、exception、copy、reference、super、...
   - @See：[debug_thread](https://github.com/lyflexi/jdk-practice/tree/main/debug_thread) jdk多线程调试，涵盖JUC、以及alibabaTTL
   - @See：[eliminateSynchronized](https://github.com/lyflexi/jdk-practice/tree/main/eliminateSynchronized) jvm性能评估插件
   - @See：[spi-ServiceProviderInterface](https://github.com/lyflexi/jdk-practice/tree/main/spi-ServiceProviderInterface) jdk-spi机制实现
