@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   - @See：[designPartens](https://github.com/lyflexi/jdk-practice/tree/main/designPartens) jdk设计模式调试，你从没见过的基于泛型GenericType封装的23种设计模式
   - @See：[eliminateSynchronized](https://github.com/lyflexi/jdk-practice/tree/main/eliminateSynchronized) jvm性能评估插件
   - @See：[spi-ServiceProviderInterface](https://github.com/lyflexi/jdk-practice/tree/main/spi-ServiceProviderInterface) jdk-spi机制实现
-- log4j2日志框架模板调试2024最新版：https://github.com/lyflexi/log4j2-practice，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
+- log4j2日志框架模板调试2024最新版：https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
 - 23种设计模式实践：https://github.com/lyflexi/designPartens-practice
 - mybatis-plus源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-plus-practice.git
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
