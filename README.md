@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice
   - @See：[debug_spring](https://github.com/lyflexi/spring-practice/tree/main/debug_spring) spring核心原理调试
-  - @See：[custom_design_pattern_framework](https://github.com/lyflexi/spring-practice/tree/main/custom_design_pattern_framework) 基于spring封装设计模式，让你大饱眼福
+  - @See：[custom_design_pattern_framework](https://github.com/lyflexi/spring-practice/tree/main/custom_design_pattern_framework) 你从未见过的基于spring封装的23种设计模式，真正的业务落地实现
 - spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
