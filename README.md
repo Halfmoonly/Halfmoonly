@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   - @See：[custom_design_pattern_framework](https://github.com/lyflexi/spring-practice/tree/main/custom_design_pattern_framework) 你从未见过的基于spring封装的23种设计模式，真正的业务落地实现，轻舟已过万重山！
 - spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
-- springboot源码调试与最佳实践（三重境界自定义starter）：https://github.com/lyflexi/springboot-practice
+- springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
   - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot核心原理调试
   - @See：[debug_springboot_robotstarter](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot_robotstarter) 三重境界自定义stater
 - redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
