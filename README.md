@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
   - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot自动装配等核心原理调试
   - @See：[debug_springboot_robotstarter](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot_robotstarter) 三重境界自定义stater
-- redisson/zk分布式锁源码调试与业务最佳实践(含手写分布式锁)：https://github.com/lyflexi/distributed-lock-practice
+- redisson/zk分布式锁源码调试与业务最佳实践：https://github.com/lyflexi/distributed-lock-practice
   - @See：[mysqlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/mysqlock) 对比mysql悲观乐观锁
   - @See：[jvmlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/jvmlock) 对比jvm加锁
   - @See：[redisHandsonDistriLock](https://github.com/lyflexi/distributed-lock-practice/tree/main/redisHandsonDistriLock) 手写redis分布式锁
