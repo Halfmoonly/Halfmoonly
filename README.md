@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - 老版合集：https://github.com/lyflexi/debuginfo_jdkToFramework
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
 - 推荐使用：springboot3.0+，大幅缩减应用启动时间，并且尽可能选择 java17和JakartaEE10 兼容的依赖
-![image](https://github.com/user-attachments/assets/2184517f-d6ee-4885-8898-33ede83fa17d)
+
+![image](./docker-services.png)
 
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
