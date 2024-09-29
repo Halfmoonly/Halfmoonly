@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
 - 推荐使用：springboot3.0+，大幅缩减应用启动时间，并且尽可能选择 java17和JakartaEE10 兼容的依赖
 
-![image](./docker-services.png)
+![image](./dockers-services.png)
 
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
