@@ -92,3 +92,4 @@ Here are some ideas to get you started:
 
 ✨fork项目：
 - guava：https://github.com/lyflexi/guava
+- PureMVC/puremvc-java-multicore-framework：https://github.com/PureMVC/puremvc-java-multicore-framework
