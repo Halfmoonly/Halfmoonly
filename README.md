@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 - log4j2日志框架模板调试2024最新版：https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
 - 23种设计模式实践：https://github.com/lyflexi/designPartens-practice ，你从没见过的基于泛型GenericType封装的23种设计模式
 - mybatis-plus源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-plus-practice.git
+  - @See：[basic-debug](https://github.com/lyflexi/mybatis-plus-practice/tree/main/basic-debug) 基础功能与分页、字段拦截、日志、逻辑删除等调试
+  - @See：[optimistic-lock-plugin](https://github.com/lyflexi/mybatis-plus-practice/tree/main/optimistic-lock-plugin) 乐观锁插件调试
+  - @See：[auto-partition-procedure](https://github.com/lyflexi/mybatis-plus-practice/tree/main/auto-partition-procedure) 数据表自动分区调试，定时任务+存储过程原理
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice ，spring核心原理调试，xml、ioc、aop、aware、Bean后置处理器、BeanFactory后置处理器、Listener、tx
 - 你从未见过的基于spring封装的23种设计模式：https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
