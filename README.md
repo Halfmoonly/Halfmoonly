@@ -48,6 +48,13 @@ Here are some ideas to get you started:
   - @See：[auto-partition-procedure](https://github.com/lyflexi/mybatis-plus-practice/tree/main/auto-partition-procedure) 数据表自动分区调试，定时任务+存储过程原理
 - servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
 - spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice ，spring核心原理调试，xml、ioc、aop、aware、Bean后置处理器、BeanFactory后置处理器、Listener、tx
+  - @See：[debug-aop](https://github.com/lyflexi/spring-practice/tree/main/debug-aop) spring-aop调试
+  - @See：[debug-factory](https://github.com/lyflexi/spring-practice/tree/main/debug-factory) spring-ioc/工厂调试
+  - @See：[debug-aware](https://github.com/lyflexi/spring-practice/tree/main/debug-aware) spring-aware调试
+  - @See：[debug-listener](https://github.com/lyflexi/spring-practice/tree/main/debug-listener) spring监听器调试，服务内部事件发布原理
+  - @See：[debug-tx](https://github.com/lyflexi/spring-practice/tree/main/debug-tx) spring事务控制调试
+  - @See：[debug-beanlife](https://github.com/lyflexi/spring-practice/tree/main/debug-beanlife) spring-bean的生命周期调试
+  - @See：[debug-circular-dependency](https://github.com/lyflexi/spring-practice/tree/main/debug-circular-dependency) spring支持循环依赖调试
 - 你从未见过的基于spring封装的23种设计模式：https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
   - @See：[strategy-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/strategy-pattern), 基于spring的策略模式
   - @See：[duty-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/duty-pattern) ,基于spring的责任链模式
