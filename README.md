@@ -1,8 +1,8 @@
 WHILE YOU'RE STILL YOUNG
 
-🔭 I’m currently working on：Here is a perfect place to sync my stuff，and it will follow me throughout my career
+🔭 This is an ideal platform to synchronize my files, seamlessly accompanying me throughout my career
 
-⚡ Fun fact ：Excellent architecture is stable, decoupled, and scalable！
+⚡ Excellent architecture is stable, decoupled, and scalable
 
 📫 How to reach me：liuyanoutsee@outlook.com
 
