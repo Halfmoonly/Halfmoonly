@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - 你从未见过的基于spring封装的23种设计模式：https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
   - @See：[strategy-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/strategy-pattern), 基于spring的策略模式
   - @See：[duty-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/duty-pattern) ,基于spring的责任链模式
-- spring6.1.2三级缓存证明猜想（spring-beans包源码手动修改版本）：https://github.com/lyflexi/spring-three-level-buffer-practice
+- spring-beans修改版源码，证明猜想：https://github.com/lyflexi/spring-three-level-buffer-practice 证明移除第三级缓存不影响框架功能，依旧支持aop场景下的循环依赖
 - springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
 - springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
   - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot自动装配等核心原理调试
