@@ -91,7 +91,8 @@ Here are some ideas to get you started:
 - guava源码调试与业务最佳实践：TODO
 
 ✨我写的其他项目/轮子
-- 手写spring项目，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
+- 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
+- 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
 - markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
