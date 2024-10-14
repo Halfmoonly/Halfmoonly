@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 
 ✨我写的其他项目/轮子
 - 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
-- 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
 - markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
 - 一种低成本的数据脱敏组件实现：https://github.com/lyflexi/data-desensitization
+- 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
