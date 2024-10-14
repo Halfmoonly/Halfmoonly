@@ -105,3 +105,4 @@ Here are some ideas to get you started:
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
 - spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
+- haidnorJVM：https://github.com/lyflexi/haidnorJVM
