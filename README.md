@@ -104,5 +104,6 @@ Here are some ideas to get you started:
 ✨fork项目：
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
-- spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
-- haidnorJVM：https://github.com/lyflexi/haidnorJVM
+- spring-source-tuling（图灵VIP源码）：https://github.com/lyflexi/spring-source-tuling
+- haidnorJVM（手写JVM）：https://github.com/lyflexi/haidnorJVM
+- jump-to-controller（IDEA插件开发）：https://github.com/lyflexi/jump-to-controller
