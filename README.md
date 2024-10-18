@@ -107,3 +107,4 @@ Here are some ideas to get you started:
 - spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
 - haidnorJVM（手写JVM）：https://github.com/lyflexi/haidnorJVM
 - jump-to-controller（IDEA插件开发）：https://github.com/lyflexi/jump-to-controller
+- MybatisX（IDEA插件开发）：https://github.com/lyflexi/MybatisX
