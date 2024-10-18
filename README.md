@@ -97,6 +97,8 @@ Here are some ideas to get you started:
 - markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
 - 一种低成本的数据脱敏组件实现：https://github.com/lyflexi/data-desensitization
 - 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
+- IDEA插件FeignX：https://github.com/lyflexi/feignx-plugin，已上架
+
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
