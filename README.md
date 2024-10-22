@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨官方框架源码调试案例与业务最佳实践：
-
-开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
-![image](./dockers-services.png)
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
@@ -97,6 +94,12 @@ Here are some ideas to get you started:
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
 
+✨开发环境：
+- JetBrains全家桶
+- 32g+1.5TB神舟游戏本
+- VMware虚拟机
+all-docker-deployment
+![image](./dockers-services.png)
 ✨fork项目：
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
