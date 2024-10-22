@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 - 一种低成本的数据脱敏组件实现：https://github.com/lyflexi/data-desensitization
 - 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 - IDEA插件开发FeignX（已上架JetBrain）：https://github.com/lyflexi/feignx-plugin 
-
+- 多租户组件的设计与实现：https://github.com/lyflexi/handson-mulit-tenant
 
 ✨前端速通教程：
 - vue3速通代码：https://github.com/lyflexi/NormalizedVue3
