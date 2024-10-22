@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨各大官方框架源码调试案例与业务最佳实践：
+✨官方框架源码调试案例与业务最佳实践：
+
 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
 ![image](./dockers-services.png)
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
