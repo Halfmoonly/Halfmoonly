@@ -9,7 +9,7 @@ WHILE YOU'RE STILL YOUNG
 ---
 [![https://github.com/lyflexi](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&theme=redical)](https://github.com/lyflexi)
 
-![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&theme=radical)
 
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
