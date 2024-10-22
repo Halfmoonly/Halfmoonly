@@ -7,8 +7,6 @@ WHILE YOU'RE STILL YOUNG
 📫 How to reach me：liuyanoutsee@outlook.com
 
 ---
-[![https://github.com/lyflexi](https://github-readme-activity-graph.vercel.app/graph?username=lyflexi&theme=redical)](https://github.com/lyflexi)
-
 ![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&theme=radical)
 
 <!--
@@ -28,7 +26,6 @@ Here are some ideas to get you started:
 ✨各大官方框架源码调试案例与业务最佳实践：
 - 老版合集：https://github.com/lyflexi/debuginfo_jdkToFramework
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
-- 推荐使用：springboot3.0+，大幅缩减应用启动时间，并且尽可能选择 java17和JakartaEE10 兼容的依赖
 
 ![image](./dockers-services.png)
 
