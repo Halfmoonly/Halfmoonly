@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 - All-Dockers
 ![image](./dockers-services.png)
 
-✨其他项目from fork：
+🌱其他项目from fork：
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
 - spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
