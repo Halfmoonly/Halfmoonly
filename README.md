@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨各大官方框架源码调试案例与业务最佳实践：
+![image](./dockers-services.png)
 - 老版合集：https://github.com/lyflexi/debuginfo_jdkToFramework
 - 开发环境：IDEA2024、32g神舟游戏本、VMware虚拟机
-
-![image](./dockers-services.png)
-
 ✨最新版源码调试案例与业务最佳实践：（拆分版）
 > 拆分的原因是老版合集难以维护：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
