@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 - IDEA插件开发FeignX（已上架JetBrain）：https://github.com/lyflexi/feignx-plugin 
 - 多租户组件的设计与实现：https://github.com/lyflexi/handson-mulit-tenant
 
-✨前端速通教程：
-- vue3速通代码：https://github.com/lyflexi/NormalizedVue3
+✨前端工程化：
+- Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
 ✨开发环境：
 - JetBrains全家桶
@@ -100,7 +100,8 @@ Here are some ideas to get you started:
 - VMware虚拟机
 - All-Dockers
 ![image](./dockers-services.png)
-✨fork项目：
+
+✨其他项目from fork：
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
 - spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
