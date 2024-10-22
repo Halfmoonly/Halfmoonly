@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 - JetBrains全家桶
 - 32g+1.5TB神舟游戏本
 - VMware虚拟机
-all-docker-deployment
+- all-dockers
 ![image](./dockers-services.png)
 ✨fork项目：
 - guava：https://github.com/lyflexi/guava
