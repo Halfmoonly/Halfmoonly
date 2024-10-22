@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ✨前端工程化：
 - Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
-✨开发环境：
+⚡开发环境：
 - JetBrains全家桶
 - 32g+1.5TB神舟游戏本
 - VMware虚拟机
