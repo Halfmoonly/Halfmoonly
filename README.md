@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨官方框架源码调试案例与业务最佳实践：
+✨各大开源框架调试案例与业务最佳实践：
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk源码调试与业务最佳实践：https://github.com/lyflexi/jdk-practice
