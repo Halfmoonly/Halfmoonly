@@ -1,11 +1,4 @@
 WHILE YOU'RE STILL YOUNG
-
-🔭 This is an ideal platform to synchronize my files, seamlessly accompanying me throughout my career
-
-⚡ Excellent architecture is stable, decoupled, and scalable
-
-📫 How to reach me：liuyanoutsee@outlook.com
-
 ---
 ![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true)
 
