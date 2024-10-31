@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
   - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot自动装配等核心原理调试
   - @See：[custom-robot-starter](https://github.com/lyflexi/springboot-practice/tree/main/custom-robot-starter) 三重境界自定义stater
-  - @See：[springboot-event](https://github.com/lyflexi/springboot-practice/tree/main/springboot-event) spring泛型事件原理，看spring是如何解决泛型擦除
+  - @See：[springboot-event](https://github.com/lyflexi/springboot-practice/tree/main/springboot-event) spring泛型事件发布原理，看spring是如何解决泛型擦除
 - redisson/zk分布式锁源码调试与业务最佳实践：https://github.com/lyflexi/distributed-lock-practice
   - @See：[mysqlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/mysqlock) 对比mysql悲观乐观锁
   - @See：[jvmlock](https://github.com/lyflexi/distributed-lock-practice/tree/main/jvmlock) 对比jvm加锁
