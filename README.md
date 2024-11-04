@@ -74,6 +74,11 @@ Here are some ideas to get you started:
   - @See：[custom-framework-spring](https://github.com/lyflexi/easyExcel-practice/tree/main/custom-framework-spring) 基于枚举和spring容器实现的可配置化解析器
 - redisbloom布隆过滤器实践：https://github.com/lyflexi/redis-bloom-practice
 - guava源码调试与业务最佳实践：TODO
+- spi机制源码分析：https://github.com/lyflexi/spi-practice
+  - @See：[spi-ServiceProviderInterface](https://github.com/lyflexi/spi-practice/tree/main/spi-ServiceProviderInterface) jdk-spi
+  - @See：[spi-jdbc](https://github.com/lyflexi/spi-practice/tree/main/spi-jdbc)  spi-jdbc
+  - @See：[spring-spi](https://github.com/lyflexi/spi-practice/tree/main/spring-spi) spring-spi
+  - @See：[dubbo-spi](https://github.com/lyflexi/spi-practice/tree/main/dubbo-spi) dubbo-spi
 
 ✨我写的其他项目/轮子
 - 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
