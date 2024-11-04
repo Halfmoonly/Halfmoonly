@@ -79,6 +79,7 @@ Here are some ideas to get you started:
   - @See：[spi-jdbc](https://github.com/lyflexi/spi-practice/tree/main/spi-jdbc)  spi-jdbc
   - @See：[spring-spi](https://github.com/lyflexi/spi-practice/tree/main/spring-spi) spring-spi
   - @See：[dubbo-spi](https://github.com/lyflexi/spi-practice/tree/main/dubbo-spi) dubbo-spi
+- spring状态机框架实践：https://github.com/lyflexi/spring-statemachine-practice
 
 ✨我写的其他项目/轮子
 - 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
