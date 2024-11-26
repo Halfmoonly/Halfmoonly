@@ -87,6 +87,8 @@ Here are some ideas to get you started:
 - 手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 - IDEA插件开发FeignX（已上架JetBrain）：https://github.com/lyflexi/feignx-plugin 
 - 多租户组件的设计与实现：https://github.com/lyflexi/handson-mulit-tenant
+- 针对长定时任务的监控告警实现：https://github.com/lyflexi/monitor-to-timedTask
+- 针对nacos服务健康的监控告警实现：https://github.com/lyflexi/monitor-to-nacos
 
 ✨前端工程化：
 - Vue3速通：https://github.com/lyflexi/NormalizedVue3
