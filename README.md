@@ -1,4 +1,5 @@
 WHILE YOU'RE STILL YOUNG
+Requirements and ideas are the origin of programming
 ---
 ![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true)
 
