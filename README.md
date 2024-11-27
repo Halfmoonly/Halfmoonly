@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨各大开源框架调试案例与业务最佳实践：
+## 🐞各大开源框架调试案例与业务最佳实践：
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk基础工具实践与调试，https://github.com/lyflexi/basic-jdk-practice
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   - @See：[dubbo-spi](https://github.com/lyflexi/spi-practice/tree/main/dubbo-spi) dubbo-spi
 - spring状态机框架实践：https://github.com/lyflexi/spring-statemachine-practice
 ---
-✨我写的其他项目/轮子
+🚀我写的其他项目/轮子
 - 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
