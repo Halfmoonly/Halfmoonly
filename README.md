@@ -1,6 +1,4 @@
-## WHILE YOU'RE STILL YOUNG
-Requirements and ideas are the origin of programming
-
+WHILE YOU'RE STILL YOUNG
 ---
 ![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true)
 
@@ -18,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Requirements and ideas are the origin of programming
 ### 🐞各大开源框架调试案例与业务最佳实践：
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
