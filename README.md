@@ -95,10 +95,8 @@ Requirements and ideas are the origin of programming
 - Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
 ### ⚡-> 开发环境
-- JetBrains全家桶
-- 32g+1.5TB神舟游戏本
-- VMware虚拟机
-- All-Dockers
+All-Dockers
+
 ![image](./dockers-services.png)
 
 ### 🌱-> Fork项目
