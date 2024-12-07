@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 Requirements and ideas are the origin of programming
 ### 🐞-> 各大开源框架调试案例与业务最佳实践
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
+
 🚀git最佳实践 ：https://github.com/lyflexi/git-practice
+
 🚀jdk基础工具实践与调试，https://github.com/lyflexi/basic-jdk-practice
 - java多线程实践与调试：https://github.com/lyflexi/java-thread-practice
 - log4j2日志框架模板调试2024最新版：https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
