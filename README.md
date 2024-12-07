@@ -128,9 +128,13 @@ Requirements and ideas are the origin of programming
 ### 👉前端工程化
 ✨Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
-### 👉开发环境
-⚡All-Dockers
-
+### 👉开发工具/环境
+⚡Intellij IDEA
+⚡VSCode
+⚡HediSql
+⚡Another Redis Desktop Manager
+⚡WindTerm
+⚡ALLDockers
 ![image](./dockers-services.png)
 
 ### 👉Fork项目
