@@ -125,6 +125,8 @@ Requirements and ideas are the origin of programming
 
 🚀针对nacos服务健康的监控告警实现：https://github.com/lyflexi/monitor-to-nacos
 
+🚀多规则单据号生成器：https://github.com/lyflexi/gen-receipt-number
+
 ### 前端工程化👇
 ✨Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
