@@ -135,7 +135,7 @@ Requirements and ideas are the origin of programming
 
 ⚡VSCode
 
-⚡HediSql
+⚡HeidiSql
 
 ⚡Another Redis Desktop Manager
 
