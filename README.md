@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Requirements and ideas are the origin of programming
-### 🐞各大开源框架调试案例与业务最佳实践：
+### 🐞 各大开源框架调试案例与业务最佳实践：
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 - git最佳实践 ：https://github.com/lyflexi/git-practice
 - jdk基础工具实践与调试，https://github.com/lyflexi/basic-jdk-practice
@@ -79,7 +79,7 @@ Requirements and ideas are the origin of programming
   - @See：[dubbo-spi](https://github.com/lyflexi/spi-practice/tree/main/dubbo-spi) dubbo-spi
 - spring状态机框架实践：https://github.com/lyflexi/spring-statemachine-practice
 ---
-### 🚀我写的其他项目/轮子
+### 🚀 我写的其他项目/轮子
 - 手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 - 商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
 - txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
@@ -91,17 +91,17 @@ Requirements and ideas are the origin of programming
 - 针对长定时任务的监控告警实现：https://github.com/lyflexi/monitor-to-timedTask
 - 针对nacos服务健康的监控告警实现：https://github.com/lyflexi/monitor-to-nacos
 
-### ✨前端工程化：
+### ✨ 前端工程化：
 - Vue3速通：https://github.com/lyflexi/NormalizedVue3
 
-### ⚡开发环境：
+### ⚡ 开发环境：
 - JetBrains全家桶
 - 32g+1.5TB神舟游戏本
 - VMware虚拟机
 - All-Dockers
 ![image](./dockers-services.png)
 
-### 🌱Fork项目：
+### 🌱 Fork项目：
 - guava：https://github.com/lyflexi/guava
 - PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
 - spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
