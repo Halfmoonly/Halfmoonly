@@ -68,7 +68,7 @@ WHILE YOU'RE STILL YOUNG
 🐞https://github.com/lyflexi/spring-statemachine-practice
 
 ---
-### 我写的其他项目/轮子👇
+### 我写的其他项目/组件/轮子👇
 🚀手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 
 🚀商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
