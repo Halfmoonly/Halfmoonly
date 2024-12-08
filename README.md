@@ -17,7 +17,7 @@ WHILE YOU'RE STILL YOUNG
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
 ![stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=prs,contribs)
 ### 各大开源框架调试案例与业务最佳实践👇
-> 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
+> [老版合集.bak]https://github.com/lyflexi/debuginfo_jdkToFramework
 
 🐞[git最佳实践]https://github.com/lyflexi/git-practice
 
@@ -25,18 +25,18 @@ WHILE YOU'RE STILL YOUNG
 
 🐞[java多线程实践与调试]https://github.com/lyflexi/java-thread-practice
 
-🐞log4j2日志框架模板调试2024最新版：https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
+🐞[log4j2日志框架模板调试2024最新版]https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
 
-🐞23种设计模式实践：https://github.com/lyflexi/designPartens-practice ，你从没见过的基于泛型GenericType封装的23种设计模式
+🐞[23种设计模式实践]https://github.com/lyflexi/designPartens-practice ，你从没见过的基于泛型GenericType封装的23种设计模式
 
-🐞mybatis-plus源码调试与业务最佳实践：https://github.com/lyflexi/mybatis-plus-practice.git
+🐞[mybatis-plus源码调试与业务最佳实践]https://github.com/lyflexi/mybatis-plus-practice.git
 - @See：[basic-debug](https://github.com/lyflexi/mybatis-plus-practice/tree/main/basic-debug) 基础功能与分页、字段拦截、日志、逻辑删除等调试
 - @See：[optimistic-lock-plugin](https://github.com/lyflexi/mybatis-plus-practice/tree/main/optimistic-lock-plugin) 乐观锁插件调试
 - @See：[auto-partition-procedure](https://github.com/lyflexi/mybatis-plus-practice/tree/main/auto-partition-procedure) 数据表自动分区调试，定时任务+存储过程原理
 
-🐞servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)：https://github.com/lyflexi/servlet-practice
+🐞[servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)]https://github.com/lyflexi/servlet-practice
 
-🐞spring注解驱动原理调试与最佳实践：https://github.com/lyflexi/spring-practice ，spring核心原理调试，xml、ioc、aop、aware、Bean后置处理器、BeanFactory后置处理器、Listener、tx
+🐞[spring注解驱动原理调试与最佳实践]https://github.com/lyflexi/spring-practice ，spring核心原理调试，xml、ioc、aop、aware、Bean后置处理器、BeanFactory后置处理器、Listener、tx
 - @See：[debug-aop](https://github.com/lyflexi/spring-practice/tree/main/debug-aop) spring-aop调试
 - @See：[debug-factory](https://github.com/lyflexi/spring-practice/tree/main/debug-factory) spring-ioc/工厂调试
 - @See：[debug-aware](https://github.com/lyflexi/spring-practice/tree/main/debug-aware) spring-aware调试
@@ -45,13 +45,13 @@ WHILE YOU'RE STILL YOUNG
 - @See：[debug-beanlife](https://github.com/lyflexi/spring-practice/tree/main/debug-beanlife) spring-bean的生命周期调试
 - @See：[debug-circular-dependency](https://github.com/lyflexi/spring-practice/tree/main/debug-circular-dependency) spring支持循环依赖调试
 
-🐞你从未见过的基于spring封装的23种设计模式：https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
+🐞[你从未见过的基于spring封装的23种设计模式]https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
 - @See：[strategy-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/strategy-pattern), 基于spring的策略模式
 - @See：[duty-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/duty-pattern) ,基于spring的责任链模式
 
-🐞spring-beans修改版源码，证明猜想：https://github.com/lyflexi/spring-three-level-buffer-practice 证明移除第三级缓存不影响框架功能，依旧支持aop场景下的循环依赖
+🐞[spring-beans修改版源码，证明猜想]https://github.com/lyflexi/spring-three-level-buffer-practice 证明移除第三级缓存不影响框架功能，依旧支持aop场景下的循环依赖
 
-🐞springmvc核心原理与最佳实践：https://github.com/lyflexi/springmvc-practice
+🐞[springmvc核心原理与最佳实践]https://github.com/lyflexi/springmvc-practice
 
 🐞springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
 - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot自动装配等核心原理调试
