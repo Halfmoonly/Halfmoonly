@@ -25,35 +25,35 @@ WHILE YOU'RE STILL YOUNG
 
 🐞[java多线程实践与调试]https://github.com/lyflexi/java-thread-practice
 
-🐞[log4j2日志框架模板调试2024最新版]https://github.com/lyflexi/log4j2-practice ，历史时间轴：Log4J->LogBack->Log4j2(springboot3主推)
+🐞[log4j2日志框架模板调试2024最新版]https://github.com/lyflexi/log4j2-practice
 
-🐞[23种设计模式实践]https://github.com/lyflexi/designPartens-practice ，你从没见过的基于泛型GenericType封装的23种设计模式
+🐞[23种设计模式实践-基于泛型]https://github.com/lyflexi/designPartens-practice
 
 🐞[mybatis-plus源码调试与业务最佳实践]https://github.com/lyflexi/mybatis-plus-practice.git
 - @See：[basic-debug](https://github.com/lyflexi/mybatis-plus-practice/tree/main/basic-debug) 基础功能与分页、字段拦截、日志、逻辑删除等调试
 - @See：[optimistic-lock-plugin](https://github.com/lyflexi/mybatis-plus-practice/tree/main/optimistic-lock-plugin) 乐观锁插件调试
 - @See：[auto-partition-procedure](https://github.com/lyflexi/mybatis-plus-practice/tree/main/auto-partition-procedure) 数据表自动分区调试，定时任务+存储过程原理
 
-🐞[servlet源码调试与最佳实践(适配Tomcat 10+与新版jakarta)]https://github.com/lyflexi/servlet-practice
+🐞[servlet源码调试与最佳实践]https://github.com/lyflexi/servlet-practice
 
-🐞[spring注解驱动原理调试与最佳实践]https://github.com/lyflexi/spring-practice ，spring核心原理调试，xml、ioc、aop、aware、Bean后置处理器、BeanFactory后置处理器、Listener、tx
+🐞[spring注解驱动原理调试与最佳实践]https://github.com/lyflexi/spring-practice
 - @See：[debug-aop](https://github.com/lyflexi/spring-practice/tree/main/debug-aop) spring-aop调试
 - @See：[debug-factory](https://github.com/lyflexi/spring-practice/tree/main/debug-factory) spring-ioc/工厂调试
 - @See：[debug-aware](https://github.com/lyflexi/spring-practice/tree/main/debug-aware) spring-aware调试
-- @See：[debug-listener](https://github.com/lyflexi/spring-practice/tree/main/debug-listener) spring监听器调试，服务内部事件发布原理
+- @See：[debug-listener](https://github.com/lyflexi/spring-practice/tree/main/debug-listener) spring-Listener调试，服务内部事件发布原理
 - @See：[debug-tx](https://github.com/lyflexi/spring-practice/tree/main/debug-tx) spring事务控制调试
 - @See：[debug-beanlife](https://github.com/lyflexi/spring-practice/tree/main/debug-beanlife) spring-bean的生命周期调试
 - @See：[debug-circular-dependency](https://github.com/lyflexi/spring-practice/tree/main/debug-circular-dependency) spring支持循环依赖调试
 
-🐞[你从未见过的基于spring封装的23种设计模式]https://github.com/lyflexi/spring-based-design-patterns ，真正的业务落地实现，轻舟已过万重山！
+🐞[23种设计模式实践-基于spring业务落地]https://github.com/lyflexi/spring-based-design-patterns
 - @See：[strategy-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/strategy-pattern), 基于spring的策略模式
 - @See：[duty-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/duty-pattern) ,基于spring的责任链模式
 
-🐞[spring-beans修改版源码，证明猜想]https://github.com/lyflexi/spring-three-level-buffer-practice 证明移除第三级缓存不影响框架功能，依旧支持aop场景下的循环依赖
+🐞[spring-beans修改版源码，证明猜想]https://github.com/lyflexi/spring-three-level-buffer-practice
 
 🐞[springmvc核心原理与最佳实践]https://github.com/lyflexi/springmvc-practice
 
-🐞springboot源码调试与最佳实践：https://github.com/lyflexi/springboot-practice
+🐞【springboot源码调试与最佳实践】https://github.com/lyflexi/springboot-practice
 - @See：[debug_springboot](https://github.com/lyflexi/springboot-practice/tree/main/debug_springboot) springboot自动装配等核心原理调试
 - @See：[custom-robot-starter](https://github.com/lyflexi/springboot-practice/tree/main/custom-robot-starter) 三重境界自定义stater
 - @See：[springboot-event](https://github.com/lyflexi/springboot-practice/tree/main/springboot-event) spring泛型事件发布原理，看spring是如何解决泛型擦除
