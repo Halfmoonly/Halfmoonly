@@ -69,17 +69,17 @@ WHILE YOU'RE STILL YOUNG
 
 ---
 ### 我写的其他项目/组件/轮子👇
-🚀手写spring框架，助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
+🚀手写Spring助你突破技术瓶颈：https://github.com/lyflexi/MiniSpringFramework
 
-🚀商城项目，分布式是如何进行拆分的：https://github.com/lyflexi/DistributedMall-heima
+🚀分布式商城是如何进行服务拆分的：https://github.com/lyflexi/DistributedMall-heima
 
-🚀txt/markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
+🚀Txt/Markdown文本正则匹配与批量替换工具：https://github.com/lyflexi/txt-regex-replace
 
-🚀markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
+🚀Markdown工程结构中无用图片清理工具：https://github.com/lyflexi/clear-unused-images-in-markdowns
 
 🚀一种低成本的数据脱敏组件实现：https://github.com/lyflexi/data-desensitization
 
-🚀手写mybatis框架，又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
+🚀手写Mybatis又见老伙计FactoryBean：https://github.com/lyflexi/hands-on-mybatis
 
 🚀IDEA插件开发FeignX（已上架JetBrain）：https://github.com/lyflexi/feignx-plugin
 
@@ -87,7 +87,7 @@ WHILE YOU'RE STILL YOUNG
 
 🚀针对长定时任务的监控告警实现：https://github.com/lyflexi/monitor-to-timedTask
 
-🚀针对nacos服务健康的监控告警实现：https://github.com/lyflexi/monitor-to-nacos
+🚀针对Nacos服务健康的监控告警实现：https://github.com/lyflexi/monitor-to-nacos
 
 🚀多规则单据号生成器：https://github.com/lyflexi/gen-receipt-number
 
