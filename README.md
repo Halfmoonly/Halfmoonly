@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 WHILE YOU'RE STILL YOUNG
 ---
-![stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=contribs&theme=highcontrast)
+![stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=contribs&theme=ambient_gradient)
 
 Requirements and ideas are the origin of programming
 ### 各大开源框架调试案例与业务最佳实践👇
