@@ -91,8 +91,8 @@ WHILE YOU'RE STILL YOUNG
 
 🚀多规则单据号生成器：https://github.com/lyflexi/gen-receipt-number
 
-### 前端工程化👇
-✨Vue3速通：https://github.com/lyflexi/NormalizedVue3
+### 前端速通代码👇
+✨https://github.com/lyflexi/NormalizedVue3
 
 ### 开发工具/环境👇
 ⚡Intellij IDEA
