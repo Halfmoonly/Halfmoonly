@@ -16,7 +16,7 @@ WHILE YOU'RE STILL YOUNG
 ---
 ![stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=prs,contribs)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
 ### 各大开源框架调试案例与业务最佳实践👇
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 
