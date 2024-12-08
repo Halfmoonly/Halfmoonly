@@ -1,6 +1,6 @@
 WHILE YOU'RE STILL YOUNG
 ---
-![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi)
+![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&hide=commits)
 ![lyflexi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyflexi&hide_progress=true)
 
 <!--
