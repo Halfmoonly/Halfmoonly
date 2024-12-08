@@ -1,6 +1,7 @@
 WHILE YOU'RE STILL YOUNG
 ---
 ![lyflexi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true)
+![lyflexi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyflexi&hide_progress=true)
 
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
