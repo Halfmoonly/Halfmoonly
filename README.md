@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 WHILE YOU'RE STILL YOUNG
 ---
-![Requirements and ideas are the origin of programming](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=contribs)
+![stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&hide=contribs)
 
-
+Requirements and ideas are the origin of programming
 ### 各大开源框架调试案例与业务最佳实践👇
 > 老版合集bak：https://github.com/lyflexi/debuginfo_jdkToFramework
 
