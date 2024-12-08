@@ -1,10 +1,6 @@
 WHILE YOU'RE STILL YOUNG
 ---
-<h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=requirements and ideas are the origin of programming&center=true&size=27">
-	</a>
-</h1>
+![lyflexi's stats](https://github-readme-stats.vercel.app/api?username=lyflexi&show_icons=true&theme=radical)
 
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
