@@ -110,14 +110,14 @@ WHILE YOU'RE STILL YOUNG
 ![image](./dockers-services.png)
 
 ### Fork项目👇
-🌱guava：https://github.com/lyflexi/guava
+🌱https://github.com/lyflexi/guava
 
-🌱PureMVC/puremvc-java-multicore-framework：https://github.com/lyflexi/puremvc-java-multicore-framework
+🌱https://github.com/lyflexi/puremvc-java-multicore-framework
 
-🌱spring-source-tuling：https://github.com/lyflexi/spring-source-tuling
+🌱https://github.com/lyflexi/spring-source-tuling
 
-🌱haidnorJVM（手写JVM）：https://github.com/lyflexi/haidnorJVM
+🌱https://github.com/lyflexi/haidnorJVM
 
-🌱jump-to-controller（IDEA插件开发）：https://github.com/lyflexi/jump-to-controller
+🌱https://github.com/lyflexi/jump-to-controller
 
-🌱MybatisX（IDEA插件开发）：https://github.com/lyflexi/MybatisX
+🌱https://github.com/lyflexi/MybatisX
