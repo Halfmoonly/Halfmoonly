@@ -25,9 +25,9 @@ WHILE YOU'RE STILL YOUNG
 
 🐞【java多线程实践与调试】https://github.com/lyflexi/java-thread-practice
 
-🐞【log4j2日志框架模板调试2024最新版】https://github.com/lyflexi/log4j2-practice
+🐞【logback/log4j2日志框架模板调试】https://github.com/lyflexi/log4j2-practice
 
-🐞【23种设计模式实践-基于generic】https://github.com/lyflexi/designPartens-practice
+🐞【二十三种设计模式实践-基于generic】https://github.com/lyflexi/designPartens-practice
 
 🐞【mybatis-plus源码调试与业务最佳实践】https://github.com/lyflexi/mybatis-plus-practice.git
 - @See：[basic-debug](https://github.com/lyflexi/mybatis-plus-practice/tree/main/basic-debug) 基础功能与分页、字段拦截、日志、逻辑删除等调试
@@ -45,11 +45,11 @@ WHILE YOU'RE STILL YOUNG
 - @See：[debug-beanlife](https://github.com/lyflexi/spring-practice/tree/main/debug-beanlife) spring-bean的生命周期调试
 - @See：[debug-circular-dependency](https://github.com/lyflexi/spring-practice/tree/main/debug-circular-dependency) spring支持循环依赖调试
 
-🐞【23种设计模式实践-基于spring】https://github.com/lyflexi/spring-based-design-patterns
+🐞【二十三种设计模式实践-基于spring】https://github.com/lyflexi/spring-based-design-patterns
 - @See：[strategy-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/strategy-pattern), 基于spring的策略模式
 - @See：[duty-pattern](https://github.com/lyflexi/spring-based-design-patterns/tree/main/duty-pattern) ,基于spring的责任链模式
 
-🐞【spring-beans修改版源码，证明猜想】https://github.com/lyflexi/spring-three-level-buffer-practice
+🐞【spring-beans修改版源码，证明移除三级缓存猜想】https://github.com/lyflexi/spring-three-level-buffer-practice
 
 🐞【springmvc核心原理与最佳实践】https://github.com/lyflexi/springmvc-practice
 
