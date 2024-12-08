@@ -1,8 +1,11 @@
 WHILE YOU'RE STILL YOUNG
 ---
-<div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=lyflexi" />
-</div>
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=requirements and ideas are the origin of programming&center=true&size=27">
+	</a>
+</h1>
+
 <!--
 **lyflexi/lyflexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
