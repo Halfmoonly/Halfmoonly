@@ -47,30 +47,23 @@ WHILE YOU'RE STILL YOUNG
 
 ---
 ### 我写的其他项目/组件/轮子👇
-🚀手写Spring助你突破技术瓶颈：https://github.com/Halfmoonly/MiniSpringFramework
-
-🚀分布式商城是如何进行服务拆分的：https://github.com/Halfmoonly/DistributedMall-heima
-
-🚀Txt/Markdown文本正则匹配与批量替换工具：https://github.com/Halfmoonly/txt-regex-replace
-
-🚀Markdown工程结构中无用图片清理工具：https://github.com/Halfmoonly/clear-unused-images-in-markdowns
-
-🚀一种低成本的数据脱敏组件实现：https://github.com/Halfmoonly/data-desensitization
-
-🚀手写Mybatis又见老伙计FactoryBean：https://github.com/Halfmoonly/hands-on-mybatis
-
-🚀IDEA插件开发FeignX（已上架JetBrain）：https://github.com/Halfmoonly/feignx-plugin
-
-🚀多租户组件的设计与实现：https://github.com/Halfmoonly/handson-mulit-tenant
-
-🚀针对长定时任务的监控告警实现：https://github.com/Halfmoonly/monitor-to-timedTask
-
-🚀针对Nacos服务健康的监控告警实现：https://github.com/Halfmoonly/monitor-to-nacos
-
-🚀多规则单据号生成器：https://github.com/Halfmoonly/gen-receipt-number
-
+| 项目描述 | 项目地址 |
+| ----------- | ----------- |
+| 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/MiniSpringFramework |
+| 分布式商城 | 🚀https://github.com/Halfmoonly/DistributedMall-heima |
+| Txt/Markdown文本正则匹配与批量替换工具 | 🚀https://github.com/Halfmoonly/txt-regex-replace |
+| Markdown工程结构中无用图片清理工具 | 🚀https://github.com/Halfmoonly/clear-unused-images-in-markdowns |
+| 一种低成本的数据脱敏组件 | 🚀https://github.com/Halfmoonly/data-desensitization |
+| 手写Mybatis又见老伙计FactoryBean | 🚀https://github.com/Halfmoonly/hands-on-mybatis |
+| JetBrains官方IDEA插件FeignX，已上架） | 🚀https://github.com/Halfmoonly/feignx-plugin |
+| 多租户组件 | 🚀https://github.com/Halfmoonly/handson-mulit-tenant |
+| 针对长定时任务的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-timedTask |
+| 针对Nacos服务健康的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-nacos |
+| 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 开发工具/环境👇
+| 项目描述 | 项目地址 | 项目描述 | 项目地址 | 项目描述 | 项目地址 |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 ⚡Intellij IDEA
 
 ⚡VSCode
