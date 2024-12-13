@@ -15,20 +15,6 @@ Here are some ideas to get you started:
 WHILE YOU'RE STILL YOUNG
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8" />
-</picture>
 ![stats](https://github-readme-stats.vercel.app/api?username=Halfmoonly&show_icons=true&hide=prs,contribs)
 ### 各大开源框架调试案例与业务最佳实践👇
 > [老版合集.bak]https://github.com/Halfmoonly/debuginfo_jdkToFramework
