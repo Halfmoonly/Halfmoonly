@@ -16,7 +16,7 @@ WHILE YOU'RE STILL YOUNG
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
 ![stats](https://github-readme-stats.vercel.app/api?username=Halfmoonly&show_icons=true&hide=contribs,issues)
-### 开源框架调试案例与业务最佳实践👇
+### 👉开源框架调试案例与业务最佳实践
 | 案例描述 | 案例地址 |
 | ----------- | ----------- |
 | git命令行实践 | 🐞https://github.com/Halfmoonly/git-practice |
@@ -46,7 +46,7 @@ WHILE YOU'RE STILL YOUNG
 | Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
 
 ---
-### 我写的其他项目/组件/轮子👇
+### 👉我写的其他项目/组件/轮子
 | 项目描述 | 项目地址 |
 | ----------- | ----------- |
 | 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/MiniSpringFramework |
@@ -61,13 +61,13 @@ WHILE YOU'RE STILL YOUNG
 | 针对Nacos服务健康的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-nacos |
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
-### 开发工具/环境👇
+### 👉开发工具/环境
 | ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡ALLDockers |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ![image](./dockers-services.png)
 
-### Fork项目👇
+### 👉Fork项目
 🌱https://github.com/Halfmoonly/guava
 
 🌱https://github.com/Halfmoonly/puremvc-java-multicore-framework
