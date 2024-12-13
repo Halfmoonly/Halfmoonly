@@ -62,19 +62,8 @@ WHILE YOU'RE STILL YOUNG
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 开发工具/环境👇
-| 项目描述 | 项目地址 | 项目描述 | 项目地址 | 项目描述 | 项目地址 |
+| ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡ALLDockers |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-⚡Intellij IDEA
-
-⚡VSCode
-
-⚡HeidiSql
-
-⚡Another Redis Desktop Manager
-
-⚡WindTerm
-
-⚡ALLDockers
 
 ![image](./dockers-services.png)
 
