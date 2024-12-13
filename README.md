@@ -43,6 +43,7 @@ WHILE YOU'RE STILL YOUNG
 | guava设计思想 | 🐞https://github.com/Halfmoonly/guava-practice |
 | 多种spi机制解读 | 🐞https://github.com/Halfmoonly/spi-practice |
 | 状态机框架实践 | 🐞https://github.com/Halfmoonly/spring-statemachine-practice |
+| Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
 
 ---
 ### 我写的其他项目/组件/轮子👇
@@ -68,8 +69,6 @@ WHILE YOU'RE STILL YOUNG
 
 🚀多规则单据号生成器：https://github.com/Halfmoonly/gen-receipt-number
 
-### 前端速通代码👇
-✨https://github.com/Halfmoonly/NormalizedVue3
 
 ### 开发工具/环境👇
 ⚡Intellij IDEA
