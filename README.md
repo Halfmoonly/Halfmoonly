@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 WHILE YOU'RE STILL YOUNG
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ### 👉开源框架调试案例与业务最佳实践
 | 案例描述 | 案例地址 |
 | ----------- | ----------- |
