@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 WHILE YOU'RE STILL YOUNG
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
-![stats](https://github-readme-stats.vercel.app/api?username=Halfmoonly&show_icons=true&hide=contribs&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=Halfmoonly&show_icons=true&hide=contribs&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact&line_height=20)
 
 ### 👉开源框架调试案例与业务最佳实践
 | 案例描述 | 案例地址 |
