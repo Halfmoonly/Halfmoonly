@@ -67,20 +67,20 @@ WHILE YOU'RE STILL YOUNG
 
 ⚡All Docker Services
 
-| CONTAINER ID | IMAGE                       | COMMAND                  | CREATED             | STATUS              |
-|--------------|-----------------------------|--------------------------|---------------------|---------------------|
-| 3430be7b3447 | redislabs/rebloom:2.2.2     | "docker-entrypoint.s..." | 2 minutes ago       | Up 30 seconds       |
-| 66a0cbdd661e | rabbitmq:3.13-management    | "docker-entrypoint.s..." | 2 days ago          | Up 30 seconds       |
-| 2326cfceedd4 | postgres:10.2-alpine        | "/usr/bin/postgres"      | 2 months ago        | Up 31 seconds       |
-| e583341cf136 | seataio/seata-server:1.5.2  | "java -Djava.securit..." | 2 months ago        | Up 30 seconds       |
-| 2b1ec111c046 | nacos/nacos-server:v2.1.0-slim | "bin/docker-startup..." | 2 months ago        | Up 30 seconds       |
-| b915f050bb8a | mysql:8.0.27                | "mysqld"                 | 2 months ago        | Up 30 seconds       |
-| 23df7ffac149 | zookeeper:3.7.0             | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds       |
-| 9449807b7371 | redis:6.2.5                 | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds       |
-| 68ef38129f45 | styletang/rocketmq-console-ng | "sh -c 'java $JAVA_O..." | 2 months ago        | Up 30 seconds       |
-| a7f85e5e2ee7 | apache/rocketmq:4.9.2         | "sh mqbroker autoCre..." | 2 months ago        | Up 30 seconds       |
-| cb59adaa10b9 | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds       |
-| 33298393987d | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds       |
+| CONTAINER ID   | IMAGE                       | COMMAND                  | CREATED             | STATUS              | NAMES       |
+|----------------|-----------------------------|--------------------------|---------------------|--------------------|-------------|
+| 3430be7b3447   | redislabs/rebloom:2.2.2     | "docker-entrypoint.s..." | 2 minutes ago       | Up 30 seconds      | redis-bloom |
+| 66a0cbdd661e   | rabbitmq:3.13-management    | "docker-entrypoint.s..." | 2 days ago          | Up 30 seconds      | rabbitmq    |
+| 2326cfceedd4   | postgres:10.2-alpine        | "/usr/bin/postgres"      | 2 months ago        | Up 31 seconds      | pgsql       |
+| e583341cf136   | seataio/seata-server:1.5.2  | "java -Djava.securit..." | 2 months ago        | Up 30 seconds      | seata       |
+| 2b1ec111c046   | nacos/nacos-server:v2.1.0-slim | "bin/docker-startup..." | 2 months ago        | Up 30 seconds      | nacos       |
+| b915f050bb8a   | mysql:8.0.27                | "mysqld"                 | 2 months ago        | Up 30 seconds      | mysql8      |
+| 23df7ffac149   | zookeeper:3.7.0             | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds      | zookeeper   |
+| 9449807b7371   | redis:6.2.5                 | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds      | redis       |
+| 68ef38129f45   | styletang/rocketmq-console-ng | "sh -c 'java $JAVA_O..." | 2 months ago        | Up 30 seconds      | rmqconsole  |
+| a7f85e5e2ee7   | apache/rocketmq:4.9.2         | "sh mqbroker autoCre..." | 2 months ago        | Up 30 seconds      | rmqbroker   |
+| cb59adaa10b9   | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds      | rmqnamesrv  |
+| 33298393987d   | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds      | mysql57     |
 
 ### 👉Fork
 🌱https://github.com/Halfmoonly/guava
