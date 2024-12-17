@@ -81,6 +81,6 @@ WHILE YOU'RE STILL YOUNG
 🌱https://github.com/Halfmoonly/MybatisX
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin&type=Date)](https://star-history.com/#Halfmoonly/data-desensitization&,Halfmoonly/feignx-plugin&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin&type=Date&theme=dark)](https://github.com/Halfmoonly)
 
 
