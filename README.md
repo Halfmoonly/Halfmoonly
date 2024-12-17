@@ -62,8 +62,23 @@ WHILE YOU'RE STILL YOUNG
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 👉开发工具/环境
-| ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡ALLDockers |
+| ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+⚡ALLDockers 
+| CONTAINER ID | IMAGE                       | COMMAND                  | CREATED             | STATUS              | PORTS                                                                                                           | NAMES     |
+|--------------|-----------------------------|--------------------------|---------------------|---------------------|-----------------------------------------------------------------------------------------------------------------|-----------|
+| 3430be7b3447 | redislabs/rebloom:2.2.2     | "docker-entrypoint.s..." | 2 minutes ago       | Up 30 seconds       | 0.0.0.0:6479->6379/tcp                                                                                          | redis-bloom |
+| 66a0cbdd661e | rabbitmq:3.13-management    | "docker-entrypoint.s..." | 2 days ago          | Up 30 seconds       | 4369/tcp, 5671/tcp, 0.0.0.0:5672->5672/tcp, 15671/tcp, 15691-15692/tcp, 25672/tcp, 0.0.0.0:15672->15672/tcp      | rabbitmq   |
+| 2326cfceedd4 | postgres:10.2-alpine        | "/usr/bin/postgres"      | 2 months ago        | Up 31 seconds       | 5432/tcp                                                                                                        | pgsql      |
+| e583341cf136 | seataio/seata-server:1.5.2  | "java -Djava.securit..." | 2 months ago        | Up 30 seconds       | 7891/tcp, 0.0.0.0:7890->7890/tcp, 8081/tcp, 0.0.0.0:8090->8090/tcp                                               | seata      |
+| 2b1ec111c046 | nacos/nacos-server:v2.1.0-slim | "bin/docker-startup..." | 2 months ago        | Up 30 seconds       | 0.0.0.0:8848->8848/tcp, 0.0.0.0:9848-9849->9848-9849/tcp                                                        | nacos      |
+| b915f050bb8a | mysql:8.0.27                | "mysqld"                 | 2 months ago        | Up 30 seconds       | 3306/tcp, 0.0.0.0:3308->3306/tcp                                                                               | mysql8     |
+| 23df7ffac149 | zookeeper:3.7.0             | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds       | 2888/tcp, 3888/tcp, 0.0.0.0:2181->2181/tcp, 8080/tcp                                                           | zookeeper  |
+| 9449807b7371 | redis:6.2.5                 | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds       | 6379/tcp                                                                                                        | redis      |
+| 68ef38129f45 | styletang/rocketmq-console-ng | "sh -c 'java $JAVA_O..." | 2 months ago        | Up 30 seconds       | 0.0.0.0:11111->8080/tcp                                                                                         | rmqconsole |
+| a7f85e5e2ee71 | apache/rocketmq:4.9.2         | "sh mqbroker autoCre..." | 2 months ago        | Up 30 seconds       | 0.0.0.0:10909->10909/tcp, 9876/tcp, 10912/tcp, 0.0.0.0:10911->10911/tcp                                         | rmqbroker  |
+| cb59adaa10b9 | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds       | 10909/tcp, 0.0.0.0:9876->9876/tcp, 10911-10912/tcp                                                              | rmqnamesrv |
+| 33298393987d | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds       | 0.0.0.0:3308->3306/tcp, 3306/tcp                                                                               | mysql57    |
 
 ![image](./dockers-services.png)
 
@@ -80,7 +95,7 @@ WHILE YOU'RE STILL YOUNG
 
 🌱https://github.com/Halfmoonly/MybatisX
 
-
+---
 [![Star History Chart](https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin&type=Date&theme=dark)](https://github.com/Halfmoonly)
 
 
