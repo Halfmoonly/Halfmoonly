@@ -66,8 +66,7 @@ WHILE YOU'RE STILL YOUNG
 | 🌱https://github.com/Halfmoonly/guava |
 | 🌱https://github.com/Halfmoonly/puremvc-java-multicore-framework |
 | 🌱https://github.com/Halfmoonly/spring-source-tuling |
-| 🌱https://github.com/Halfmoonly/haidnorJVM
- |
+| 🌱https://github.com/Halfmoonly/haidnorJVM |
 | 🌱https://github.com/Halfmoonly/jump-to-controller |
 | 🌱https://github.com/Halfmoonly/MybatisX |
 
