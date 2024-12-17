@@ -62,7 +62,7 @@ WHILE YOU'RE STILL YOUNG
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 👉开发工具/环境
-| ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡Maven | ⚡Gradle |
+| ⚡Intellij IDEA | ⚡Maven | ⚡Gradle | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ⚡All Docker Services
@@ -81,8 +81,6 @@ WHILE YOU'RE STILL YOUNG
 | a7f85e5e2ee71 | apache/rocketmq:4.9.2         | "sh mqbroker autoCre..." | 2 months ago        | Up 30 seconds       | 0.0.0.0:10909->10909/tcp, 9876/tcp, 10912/tcp, 0.0.0.0:10911->10911/tcp                                         | rmqbroker  |
 | cb59adaa10b9 | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds       | 10909/tcp, 0.0.0.0:9876->9876/tcp, 10911-10912/tcp                                                              | rmqnamesrv |
 | 33298393987d | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds       | 0.0.0.0:3308->3306/tcp, 3306/tcp                                                                               | mysql57    |
-
-![image](./dockers-services.png)
 
 ### 👉Fork
 🌱https://github.com/Halfmoonly/guava
