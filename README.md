@@ -61,19 +61,15 @@ WHILE YOU'RE STILL YOUNG
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 👉Fork
-|  项目地址 |
+|  Repos |
 | ----------- |
 | 🌱https://github.com/Halfmoonly/guava |
-
-🌱https://github.com/Halfmoonly/puremvc-java-multicore-framework
-
-🌱https://github.com/Halfmoonly/spring-source-tuling
-
-🌱https://github.com/Halfmoonly/haidnorJVM
-
-🌱https://github.com/Halfmoonly/jump-to-controller
-
-🌱https://github.com/Halfmoonly/MybatisX
+| 🌱https://github.com/Halfmoonly/puremvc-java-multicore-framework |
+| 🌱https://github.com/Halfmoonly/spring-source-tuling |
+| 🌱https://github.com/Halfmoonly/haidnorJVM
+ |
+| 🌱https://github.com/Halfmoonly/jump-to-controller |
+| 🌱https://github.com/Halfmoonly/MybatisX |
 
 ---
 <picture>
