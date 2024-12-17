@@ -63,7 +63,7 @@ WHILE YOU'RE STILL YOUNG
 
 ### 👉开发工具/环境
 | ⚡Intellij IDEA | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ⚡All Docker Services
 
