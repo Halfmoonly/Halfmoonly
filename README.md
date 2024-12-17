@@ -61,7 +61,7 @@ WHILE YOU'RE STILL YOUNG
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 
 ### 👉Fork From Others
-|  Repos |
+| Repos |
 | ----------- |
 | 🌱https://github.com/Halfmoonly/guava |
 | 🌱https://github.com/Halfmoonly/puremvc-java-multicore-framework |
