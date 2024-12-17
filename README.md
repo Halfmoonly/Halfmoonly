@@ -85,6 +85,10 @@ WHILE YOU'RE STILL YOUNG
 <picture>
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
+    src="https://github.com/Halfmoonly/data-desensitization&type=Date"
+  />
+  <img
+    alt="Star History Chart"
+    src="https://github.com/Halfmoonly/feignx-plugin&type=Date"
   />
 </picture>
