@@ -97,6 +97,6 @@ WHILE YOU'RE STILL YOUNG
   />
   <img
     alt="Star History Chart"
-    src="https://github.com/Halfmoonly&type=Date"
+    src="https://api.star-history.com/svg?repos=star-history/star-history&type=Date"
   />
 </picture>
