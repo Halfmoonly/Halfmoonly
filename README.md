@@ -91,7 +91,7 @@ WHILE YOU'RE STILL YOUNG
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=star-history/star-history&type=Date
+      https://api.star-history.com/svg?repos=Halfmoonly/feignx-plugin&type=Date
     "
   />
   <img
