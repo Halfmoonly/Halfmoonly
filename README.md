@@ -45,7 +45,7 @@ WHILE YOU'RE STILL YOUNG
 | Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
 | 刷算法 | 🐞https://github.com/Halfmoonly/leetcode-java.git |
 
-#### 👉我写的其他项目/组件/轮子(Open Source Project)
+#### 👉我写的其他项目/组件/轮子(Personal Open Source Project)
 | 项目描述 | 项目地址 |
 | ----------- | ----------- |
 | 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/MiniSpringFramework |
