@@ -43,7 +43,7 @@ WHILE YOU'RE STILL YOUNG
 | 多种spi机制解读 | 🐞https://github.com/Halfmoonly/spi-practice |
 | 状态机框架实践 | 🐞https://github.com/Halfmoonly/spring-statemachine-practice |
 | Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
-| 刷算法 | 🐞https://github.com/Halfmoonly/leetcode-java.git |
+| 公司题型总结 | 🐞https://github.com/Halfmoonly/leetcode-java.git |
 
 #### 👉我的开源项目/组件/轮子(Personal Open Source Project)
 | 项目描述 | 项目地址 |
