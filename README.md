@@ -43,7 +43,7 @@ WHILE YOU'RE STILL YOUNG
 | 状态机框架实践 | 🐞https://github.com/Halfmoonly/spring-statemachine-practice |
 | Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
 | 公司题型归纳，迅速面试 | 🐞https://github.com/Halfmoonly/interview-coding |
-| 网络篇nio实践 | 🐞https://github.com/Halfmoonly/nio-practice |
+| 网络基础nio实践 | 🐞https://github.com/Halfmoonly/nio-practice |
 
 #### 👉我的开源项目/组件/轮子(Personal Open Source Project)
 | 项目描述 | 项目地址 |
