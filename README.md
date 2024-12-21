@@ -31,7 +31,6 @@ WHILE YOU'RE STILL YOUNG
 | springmvc源码实践 | 🐞https://github.com/Halfmoonly/springmvc-practice |
 | springboot核心源码实践 | 🐞https://github.com/Halfmoonly/springboot-practice |
 | 分布式锁多种实现方式 | 🐞https://github.com/Halfmoonly/distributed-lock-practice |
-| nio/netty实践 | 🐞https://github.com/Halfmoonly/netty-practice |
 | 定制缓存业务组件jetcache | 🐞https://github.com/Halfmoonly/jetcache-practice |
 | 定制消息业务组件rabbitmq | 🐞https://github.com/Halfmoonly/rabbitmq-practice |
 | rocketmq实践 | 🐞https://github.com/Halfmoonly/rocketmq-practice |
@@ -44,6 +43,7 @@ WHILE YOU'RE STILL YOUNG
 | 状态机框架实践 | 🐞https://github.com/Halfmoonly/spring-statemachine-practice |
 | Vue3前端速通 | 🐞https://github.com/Halfmoonly/NormalizedVue3 |
 | 公司题型归纳，迅速面试 | 🐞https://github.com/Halfmoonly/interview-coding |
+| nio实践 | 🐞https://github.com/Halfmoonly/nio-practice |
 
 #### 👉我的开源项目/组件/轮子(Personal Open Source Project)
 | 项目描述 | 项目地址 |
