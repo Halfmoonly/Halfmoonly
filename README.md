@@ -60,6 +60,7 @@ WHILE YOU'RE STILL YOUNG
 | 针对长定时任务的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-timedTask |
 | 针对Nacos服务健康的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-nacos |
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
+| 防止重复提交组件 | 🚀https://github.com/Halfmoonly/repeatsubmit-practice |
 
 #### 👉Develop Tools/Env
 Tools:
