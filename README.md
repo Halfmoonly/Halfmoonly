@@ -34,7 +34,8 @@ WHILE YOU'RE STILL YOUNG
 | 定制缓存业务组件jetcache | 🐞https://github.com/Halfmoonly/jetcache-practice |
 | 定制消息业务组件rabbitmq | 🐞https://github.com/Halfmoonly/rabbitmq-practice |
 | rocketmq实践 | 🐞https://github.com/Halfmoonly/rocketmq-practice |
-| springcloudalibaba各大组件实践 | 🐞https://github.com/Halfmoonly/spring-cloud-alibaba-practice |
+| springclouda-openfeign实践 | 🐞https://github.com/Halfmoonly/springcloud-openfeign-practice |
+| springclouda-nacos实践 | 🐞https://github.com/Halfmoonly/springcloud-nacos-practice |
 | 定时任务业务组件封装xxljob | 🐞https://github.com/Halfmoonly/xxljob-practice |
 | 定制导入导出业务组件easyExcel | 🐞https://github.com/Halfmoonly/easyExcel-practice |
 | 布隆过滤器实践 | 🐞https://github.com/Halfmoonly/redis-bloom-practice |
