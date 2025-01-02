@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
+#### 👉Based develop-tools and env
+| ⚡Intellij IDEA | ⚡Maven | ⚡Gradle | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡VMware | ⚡Centos | ⚡Docker |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
 #### 👉Framework debugging and best biz practice
 | Case desc | Case link |
 | ----------- | ----------- |
@@ -61,29 +65,6 @@ Here are some ideas to get you started:
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 | 防止重复提交组件 | 🚀https://github.com/Halfmoonly/repeatsubmit-practice |
 
-#### 👉Based develop-tools and env
-develop-tools:
-
-| ⚡Intellij IDEA | ⚡Maven | ⚡Gradle | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-
-develop-env:
-
-| CONTAINER ID   | IMAGE                       | COMMAND                  | CREATED             | STATUS              | NAMES       |
-|----------------|-----------------------------|--------------------------|---------------------|--------------------|-------------|
-| 3430be7b3447   | redislabs/rebloom:2.2.2     | "docker-entrypoint.s..." | 2 minutes ago       | Up 30 seconds      | redis-bloom |
-| 66a0cbdd661e   | rabbitmq:3.13-management    | "docker-entrypoint.s..." | 2 days ago          | Up 30 seconds      | rabbitmq    |
-| 2326cfceedd4   | postgres:10.2-alpine        | "/usr/bin/postgres"      | 2 months ago        | Up 31 seconds      | pgsql       |
-| e583341cf136   | seataio/seata-server:1.5.2  | "java -Djava.securit..." | 2 months ago        | Up 30 seconds      | seata       |
-| 2b1ec111c046   | nacos/nacos-server:v2.1.0-slim | "bin/docker-startup..." | 2 months ago        | Up 30 seconds      | nacos       |
-| b915f050bb8a   | mysql:8.0.27                | "mysqld"                 | 2 months ago        | Up 30 seconds      | mysql8      |
-| 23df7ffac149   | zookeeper:3.7.0             | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds      | zookeeper   |
-| 9449807b7371   | redis:6.2.5                 | "/docker-entrypoint..."  | 2 months ago        | Up 30 seconds      | redis       |
-| 68ef38129f45   | styletang/rocketmq-console-ng | "sh -c 'java $JAVA_O..." | 2 months ago        | Up 30 seconds      | rmqconsole  |
-| a7f85e5e2ee7   | apache/rocketmq:4.9.2         | "sh mqbroker autoCre..." | 2 months ago        | Up 30 seconds      | rmqbroker   |
-| cb59adaa10b9   | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds      | rmqnamesrv  |
-| 33298393987d   | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds      | mysql57     |
-
 #### 👉Fork from others
 | Repos |
 | ----------- |
@@ -94,7 +75,7 @@ develop-env:
 | 🌱https://github.com/Halfmoonly/jump-to-controller |
 | 🌱https://github.com/Halfmoonly/MybatisX |
 
-#### 👉My honor
+#### 👉Honors and awards
 <picture>
   <img
     alt="Star History Chart"
