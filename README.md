@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
-#### 👉开源框架调试案例与业务最佳实践(Best Biz Practice)
-| 案例描述 | 案例地址 |
+#### 👉Framework debugging and best biz practice
+| Case desc | Case link |
 | ----------- | ----------- |
 | git命令行实践 | 🐞https://github.com/Halfmoonly/git-practice |
 | jdk基础源码实践 | 🐞https://github.com/Halfmoonly/basic-jdk-practice |
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 | 公司题型归纳，迅速面试 | 🐞https://github.com/Halfmoonly/interview-coding |
 | 网络基础nio实践 | 🐞https://github.com/Halfmoonly/nio-practice |
 
-#### 👉我的开源项目/组件/轮子(Personal Open Source Project)
-| 项目描述 | 项目地址 |
+#### 👉Personal open source projects or component
+| Project desc | Project link |
 | ----------- | ----------- |
 | 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/MiniSpringFramework |
 | 分布式商城 | 🚀https://github.com/Halfmoonly/DistributedMall-heima |
@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 | 防止重复提交组件 | 🚀https://github.com/Halfmoonly/repeatsubmit-practice |
 
-#### 👉Develop Tools/Env
-Tools:
+#### 👉Based develop-tools and env
+develop-tools:
 
 | ⚡Intellij IDEA | ⚡Maven | ⚡Gradle | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-Env:
+develop-env:
 
 | CONTAINER ID   | IMAGE                       | COMMAND                  | CREATED             | STATUS              | NAMES       |
 |----------------|-----------------------------|--------------------------|---------------------|--------------------|-------------|
@@ -84,7 +84,7 @@ Env:
 | cb59adaa10b9   | apache/rocketmq:4.9.2        | "sh mqnamesrv autoCr..." | 2 months ago        | Up 30 seconds      | rmqnamesrv  |
 | 33298393987d   | mysql:5.7                   | "docker-entrypoint..."   | 2 months ago        | Up 30 seconds      | mysql57     |
 
-#### 👉Fork From Others
+#### 👉Fork from others
 | Repos |
 | ----------- |
 | 🌱https://github.com/Halfmoonly/guava |
@@ -94,6 +94,7 @@ Env:
 | 🌱https://github.com/Halfmoonly/jump-to-controller |
 | 🌱https://github.com/Halfmoonly/MybatisX |
 
+#### 👉My honor
 ---
 <picture>
   <img
@@ -101,3 +102,6 @@ Env:
     src="https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin&type=Date&theme=dark"
   />
 </picture>
+
+#### 👉Paid service
+todo...
