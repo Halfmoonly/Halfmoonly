@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-自信人生二百年，会当水击三千里--湘江畅游
+自信人生二百年，会当水击三千里《湘江畅游》
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming)](https://git.io/typing-svg)
 #### 👉开源框架调试案例与业务最佳实践(Best Biz Practice)
