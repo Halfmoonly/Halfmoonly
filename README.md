@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 #### 👉Personal open source projects or component
 | Project desc | Project link |
 | ----------- | ----------- |
-| 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/MiniSpringFramework |
+| 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/handson-spring |
 | 分布式商城 | 🚀https://github.com/Halfmoonly/DistributedMall-heima |
 | Txt/Markdown文本正则匹配与批量替换工具 | 🚀https://github.com/Halfmoonly/txt-regex-replace |
 | Markdown工程结构中无用图片清理工具 | 🚀https://github.com/Halfmoonly/clear-unused-images-in-markdowns |
 | 一种低成本的数据脱敏组件 | 🚀https://github.com/Halfmoonly/data-desensitization |
-| 手写Mybatis又见老伙计FactoryBean | 🚀https://github.com/Halfmoonly/hands-on-mybatis |
+| 手写Mybatis又见老伙计FactoryBean | 🚀https://github.com/Halfmoonly/handson-mybatis |
 | JetBrains官方IDEA插件FeignX，已上架） | 🚀https://github.com/Halfmoonly/feignx-plugin |
 | 多租户组件 | 🚀https://github.com/Halfmoonly/handson-mulit-tenant |
 | 针对长定时任务的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-timedTask |
