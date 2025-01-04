@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <picture>
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin&type=Date&theme=dark"
+    src="https://api.star-history.com/svg?repos=Halfmoonly/data-desensitization,Halfmoonly/feignx-plugin,Halfmoonly/clear-unused-images-in-markdowns&type=Date&theme=dark"
   />
 </picture>
 
