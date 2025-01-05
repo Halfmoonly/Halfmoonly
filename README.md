@@ -1,8 +1,6 @@
 <!--
 **Halfmoonly/Halfmoonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: liuyanoutsee@outlook.com
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
 #### 👉Based on develop-tools and env
