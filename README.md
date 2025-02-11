@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 | Markdown工程结构中无用图片清理工具 | 🚀https://github.com/Halfmoonly/clear-unused-images-in-markdowns |
 | 一种低成本的数据脱敏组件 | 🚀https://github.com/Halfmoonly/data-desensitization |
 | 手写Mybatis又见老伙计FactoryBean | 🚀https://github.com/Halfmoonly/handson-mybatis |
-| 多租户组件 | 🚀https://github.com/Halfmoonly/handson-multiTenant |
 | 针对长定时任务的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-timedTask |
 | 针对Nacos服务健康的监控告警组件 | 🚀https://github.com/Halfmoonly/monitor-to-nacos |
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
