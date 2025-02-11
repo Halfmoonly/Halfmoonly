@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 | 多规则的单据号生成器 | 🚀https://github.com/Halfmoonly/gen-receipt-number |
 | 防止重复提交组件 | 🚀https://github.com/Halfmoonly/repeatsubmit-practice |
 | 分布式id生成算法snowflake | 🚀https://github.com/Halfmoonly/handson-snowflake |
-| JetBrains官方IDEA插件FeignX，已上架） | 🚀https://github.com/Halfmoonly/feignx-plugin |
+| JetBrains官方IDEA插件FeignX，已上架 | 🚀https://github.com/Halfmoonly/feignx-plugin |
 | 千呼万唤始出来，手写服务器Tomcat | 🚀https://github.com/Halfmoonly/handson-tomcat |
 
 #### 👉Fork from others
