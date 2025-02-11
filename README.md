@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 | Project desc | Project link |
 | ----------- | ----------- |
 | 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/handson-spring |
-| 分布式商城 | 🚀https://github.com/Halfmoonly/DistributedMall-heima |
+| 致敬传奇，手写服务器Tomcat | 🚀https://github.com/Halfmoonly/handson-tomcat |
+| 分布式商城，见多识广 | 🚀https://github.com/Halfmoonly/DistributedMall-heima |
 | Txt/Markdown文本正则匹配与批量替换工具 | 🚀https://github.com/Halfmoonly/txt-regex-replace |
 | Markdown工程结构中无用图片清理工具 | 🚀https://github.com/Halfmoonly/clear-unused-images-in-markdowns |
 | 一种低成本的数据脱敏组件 | 🚀https://github.com/Halfmoonly/data-desensitization |
@@ -65,7 +66,6 @@ Here are some ideas to get you started:
 | 防止重复提交组件 | 🚀https://github.com/Halfmoonly/repeatsubmit-practice |
 | 分布式id生成算法snowflake | 🚀https://github.com/Halfmoonly/handson-snowflake |
 | JetBrains官方IDEA插件FeignX，已上架 | 🚀https://github.com/Halfmoonly/feignx-plugin |
-| 千呼万唤始出来，手写服务器Tomcat | 🚀https://github.com/Halfmoonly/handson-tomcat |
 
 #### 👉Fork from others
 | Repos |
