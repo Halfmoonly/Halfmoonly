@@ -51,10 +51,15 @@ Here are some ideas to get you started:
 #### 🍃Front-end speed pass and code debugging
 | Case desc | Case link |
 | ----------- | ----------- |
-| VSCode开启javascript调试实践 | https://github.com/Halfmoonly/javascript-practice.git |
-| VSCode开启typescript调试实践 | https://github.com/Halfmoonly/typescript-practice.git |
-| VSCode开启Vue项目调试模式教学 | https://github.com/Halfmoonly/vue3-practice |
+| VSCode开启JavaScript调试实践 | https://github.com/Halfmoonly/javascript-practice.git |
+| VSCode开启TypeScript调试实践 | https://github.com/Halfmoonly/typescript-practice.git |
+| VSCode开启Vue项目调试与框架速通 | https://github.com/Halfmoonly/vue3-practice |
 | 前端组件封装之axios | https://github.com/Halfmoonly/handson-axios |
+
+#### 🤖Machine learning and Data analysis or AI
+| Case desc | Case link |
+| ----------- | ----------- |
+| Python速通 | https://github.com/Halfmoonly/python-practice |
 
 #### 🚀Personal open source projects
 | Project desc | Project link |
