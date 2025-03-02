@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 | https://github.com/Halfmoonly/jump-to-controller |
 | https://github.com/Halfmoonly/MybatisX |
 
-#### 👉Honors and awards
+#### 🔭Honors and awards
 <picture>
   <img
     alt="Star History Chart"
