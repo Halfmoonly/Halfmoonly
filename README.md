@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 | 公司题型归纳，迅速面试 | 🐞https://github.com/Halfmoonly/interview-coding |
 | 网络基础NIO实践 | 🐞https://github.com/Halfmoonly/nio-practice |
 
-#### 👉Front-end speed pass and project debugging
+#### 👉Front-end speed pass and code debugging
 | Case desc | Case link |
 | ----------- | ----------- |
-| VSCode开启typescript调试实践 | 🐞https://github.com/Halfmoonly/typescript-practice.git |
 | VSCode开启javascript调试实践 | 🐞https://github.com/Halfmoonly/javascript-practice.git |
+| VSCode开启typescript调试实践 | 🐞https://github.com/Halfmoonly/typescript-practice.git |
 | VSCode开启Vue项目调试模式教学 | 🐞https://github.com/Halfmoonly/vue3-practice |
-| 前端业务组件axios自定义封装 | 🐞https://github.com/Halfmoonly/handson-axios |
+| 前端组件封装之axios | 🐞https://github.com/Halfmoonly/handson-axios |
 
 #### 👉Personal open source projects
 | Project desc | Project link |
