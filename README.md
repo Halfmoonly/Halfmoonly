@@ -45,10 +45,16 @@ Here are some ideas to get you started:
 | Guava设计思想 | 🐞https://github.com/Halfmoonly/guava-practice |
 | 多种SPI机制解读 | 🐞https://github.com/Halfmoonly/spi-practice |
 | 状态机框架实践 | 🐞https://github.com/Halfmoonly/spring-statemachine-practice |
-| 前端速通与VSCode开启Vue项目调试模式教学 | 🐞https://github.com/Halfmoonly/vue3-practice |
-| 前端业务组件axios自定义封装 | 🐞https://github.com/Halfmoonly/handson-axios |
 | 公司题型归纳，迅速面试 | 🐞https://github.com/Halfmoonly/interview-coding |
 | 网络基础NIO实践 | 🐞https://github.com/Halfmoonly/nio-practice |
+
+#### 👉Front-end speed pass and project debugging
+| Case desc | Case link |
+| ----------- | ----------- |
+| VSCode开启typescript调试实践 | 🐞https://github.com/Halfmoonly/typescript-practice.git |
+| VSCode开启javascript调试实践 | 🐞https://github.com/Halfmoonly/javascript-practice.git |
+| VSCode开启Vue项目调试模式教学 | 🐞https://github.com/Halfmoonly/vue3-practice |
+| 前端业务组件axios自定义封装 | 🐞https://github.com/Halfmoonly/handson-axios |
 
 #### 👉Personal open source projects or component
 | Project desc | Project link |
