@@ -97,6 +97,6 @@ Here are some ideas to get you started:
 </picture>
 
 #### 👉Paid service
-todo...( $ _ $ )
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
+
+todo...( $ _ $ )
