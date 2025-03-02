@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 | ⚡Intellij IDEA | ⚡Maven | ⚡Gradle | ⚡VSCode | ⚡HeidiSql | ⚡Another Redis Desktop Manager | ⚡WindTerm | ⚡VMware | ⚡Centos | ⚡Docker |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-#### 👉Framework debugging and best biz practice
+#### 👉Back-end Framework debugging and best biz practice
 | Case desc | Case link |
 | ----------- | ----------- |
 | Git命令行实践 | 🐞https://github.com/Halfmoonly/git-practice |
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 | VSCode开启Vue项目调试模式教学 | 🐞https://github.com/Halfmoonly/vue3-practice |
 | 前端业务组件axios自定义封装 | 🐞https://github.com/Halfmoonly/handson-axios |
 
-#### 👉Personal open source projects or component
+#### 👉Personal open source projects
 | Project desc | Project link |
 | ----------- | ----------- |
 | 手写Spring助你突破技术瓶颈 | 🚀https://github.com/Halfmoonly/handson-spring |
