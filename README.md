@@ -100,7 +100,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
 
 #### 👉公众号研发之心
-![image](https://github.com/user-attachments/assets/fc9b8a05-ee20-42f3-92b2-393aeaee0ef4)
+![image](https://github.com/user-attachments/assets/124ea2c5-9660-45df-9b24-4704dd480546)
+
 
 
 
