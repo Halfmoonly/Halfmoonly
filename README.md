@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </picture>
 
 #### 💻ToDoList
-Look：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
+Looking at：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
 
 #### 🌏Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
