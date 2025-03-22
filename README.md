@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
-#### ⚡Kits/Env
+#### ⚡ Kits/Env
 | Git | Intellij IDEA | VSCode | Gradle | Maven | HeidiSql | WindTerm | VMware | Centos | Docker | K8S |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-#### 🔭Honors/Awards
+#### 🔭 Honors/Awards
 <picture>
   <img
     alt="Star History Chart"
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
   />
 </picture>
 
-#### 💻TODO
+#### 💻 TODO
 Looking at：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
 
-#### 🌏Languages
+#### 🌏 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
 
 
