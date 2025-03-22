@@ -1,4 +1,4 @@
-This list covers all my demos, projects and achievements from college to present. 
+This catalogue covers all my demos, projects and achievements from college to present. 
 
 I am obsessive and a collector.
 ---
@@ -48,9 +48,9 @@ I am obsessive and a collector.
 #### 🚀Personal open source projects
 | Project desc | Project link |
 | ----------- | ----------- |
-| 手写Spring助你突破技术瓶颈 | https://github.com/Halfmoonly/handson-spring |
-| 致敬传奇，手写服务器Tomcat | https://github.com/Halfmoonly/handson-tomcat |
-| 分布式商城，见多识广 | https://github.com/Halfmoonly/DistributedMall-heima |
+| 手写框架Spring | https://github.com/Halfmoonly/handson-spring |
+| 手写服务器Tomcat | https://github.com/Halfmoonly/handson-tomcat |
+| 分布式商城 | https://github.com/Halfmoonly/DistributedMall-heima |
 | Txt/Markdown文本正则匹配与批量替换工具 | https://github.com/Halfmoonly/txt-regex-replace |
 | Markdown工程结构中无用图片清理工具 | https://github.com/Halfmoonly/clear-unused-images-in-markdowns |
 | 一种低成本的数据脱敏组件 | https://github.com/Halfmoonly/data-desensitization |
