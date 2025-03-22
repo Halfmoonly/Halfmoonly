@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=28&pause=1000&vCenter=true&width=700&lines=requirements+and+ideas+are+the+origin+of+programming...)](https://git.io/typing-svg)
 ---
 #### ⚡Kits/Env
-| Git | Intellij IDEA | VSCode | Gradle | Maven | HeidiSql | Another Redis Desktop Manager | WindTerm | VMware | Centos | Docker | K8S |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Git | Intellij IDEA | VSCode | Gradle | Maven | HeidiSql | WindTerm | VMware | Centos | Docker | K8S |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 #### 🔭Honors/Awards
 <picture>
