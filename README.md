@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   />
 </picture>
 
-#### 💻ToDoList
+#### 💻TODO
 Looking at：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
 
 #### 🌏Languages
