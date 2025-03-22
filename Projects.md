@@ -1,3 +1,5 @@
+This is a list of all my demos, projects and achievements from college to present. I am obsessive and a collector.
+---
 #### 🌳Back-end Framework debugging and best biz practice
 | Case desc | Case link |
 | ----------- | ----------- |
