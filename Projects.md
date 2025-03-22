@@ -2,8 +2,8 @@ This catalogue covers all my demos, projects and achievements from college to pr
 
 I am obsessive and a collector.
 ---
-#### 🌳Back-end Framework debugging and best biz practice
-| Case desc | Case link |
+#### 🌳后端框架调试指南与业务最佳实践
+| 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | Git命令行实践 | https://github.com/Halfmoonly/git-practice |
 | JDK基础源码实践 | https://github.com/Halfmoonly/basic-jdk-practice |
@@ -32,21 +32,21 @@ I am obsessive and a collector.
 | 公司题型归纳，迅速面试 | https://github.com/Halfmoonly/interview-coding |
 | 网络基础NIO实践 | https://github.com/Halfmoonly/nio-practice |
 
-#### 🍃Front-end speed pass and code debugging
-| Case desc | Case link |
+#### 🍃前端框架调试指南与速通
+| 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | VSCode开启JavaScript调试实践 | https://github.com/Halfmoonly/javascript-practice.git |
 | VSCode开启TypeScript调试实践 | https://github.com/Halfmoonly/typescript-practice.git |
 | VSCode开启Vue项目调试与框架速通 | https://github.com/Halfmoonly/vue3-practice |
 | 前端组件封装之axios | https://github.com/Halfmoonly/handson-axios |
 
-#### 🤖Machine learning and Data analysis or AI
-| Case desc | Case link |
+#### 🤖人人都是脚本侠
+| 案例描述 | 仓库地址 |
 | ----------- | ----------- |
 | Python速通 | https://github.com/Halfmoonly/python-practice |
 
-#### 🚀Personal open source projects
-| Project desc | Project link |
+#### 🚀我的开源项目
+| 项目描述 | 仓库地址 |
 | ----------- | ----------- |
 | 手写框架Spring | https://github.com/Halfmoonly/handson-spring |
 | 手写服务器Tomcat | https://github.com/Halfmoonly/handson-tomcat |
@@ -62,8 +62,8 @@ I am obsessive and a collector.
 | 分布式id生成算法snowflake | https://github.com/Halfmoonly/handson-snowflake |
 | IntelliJ IDEA插件Navigator4URL OpenFeign RestController已上架 | https://github.com/Halfmoonly/feignx-plugin |
 
-#### 🌱Fork from others
-| Repos |
+#### 🌱复刻的项目
+| 仓库地址 |
 | ----------- |
 | https://github.com/Halfmoonly/guava |
 | https://github.com/Halfmoonly/puremvc-java-multicore-framework |
