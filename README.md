@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 #### 🏆 Honors/Awards
 ex-top1% north player for cf
+
 <picture>
   <img
     alt="Star History Chart"
