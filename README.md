@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### 🏆 Honors/Awards
 网瘾少年的前半生：
 - ex-top1% north player for cf
-- dnf
+- ex-player for dnf 60~100
 
 <picture>
   <img
