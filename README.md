@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 #### 🏆 Honors/Awards
-- a little java
-- a little cf and dnf, ex-top1% north player for cf
+- a little java, cf and dnf, ex-top1% north player for cf 
 
 <picture>
   <img
