@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 #### 💻 TODO
 - Looking at：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
-- Notes：https://github.com/Halfmoonly/vsNotes
+- Million-word notes(private)：https://github.com/Halfmoonly/vsNotes
 
 #### 🌏 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halfmoonly&layout=compact)
