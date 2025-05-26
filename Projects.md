@@ -31,6 +31,7 @@ I am obsessive and a collector.
 | 状态机框架实践 | https://github.com/Halfmoonly/spring-statemachine-practice |
 | 公司题型归纳，迅速面试 | https://github.com/Halfmoonly/interview-coding |
 | 网络基础NIO实践 | https://github.com/Halfmoonly/nio-practice |
+| Java21实践 | https://github.com/Halfmoonly/java21-practice |
 
 #### 🍃前端框架调试指南与速通
 | 案例描述 | 仓库地址 |
@@ -60,7 +61,8 @@ I am obsessive and a collector.
 | 多规则的单据号生成器 | https://github.com/Halfmoonly/gen-receipt-number |
 | 防止重复提交组件 | https://github.com/Halfmoonly/repeatsubmit-practice |
 | 分布式id生成算法snowflake | https://github.com/Halfmoonly/handson-snowflake |
-| IntelliJ IDEA插件Navigator4URL OpenFeign RestController已上架 | https://github.com/Halfmoonly/feignx-plugin |
+| IntelliJ IDEA插件FeignClient Assistant已上架 | https://github.com/Halfmoonly/feignx-plugin |
+| 手写分布式定时任务xxljob | https://github.com/Halfmoonly/handson-xxljob |
 
 #### 🌱复刻的项目
 | 仓库地址 |
