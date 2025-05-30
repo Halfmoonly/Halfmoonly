@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   />
 </picture>
 
-#### 💻 TODO
+#### 💻 Todo/Done
 - Looking at：https://github.com/Halfmoonly/Halfmoonly/blob/main/Projects.md
 - Million-word notes(private)：https://github.com/Halfmoonly/vsNotes
 
